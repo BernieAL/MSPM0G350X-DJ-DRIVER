@@ -1112,7 +1112,7 @@
 			(pin input line
 				(at -25.4 -54.61 0)
 				(length 2.54)
-				(name "PA18"
+				(name "PB18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1832,16 +1832,15 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 0 2.54 0)
+			(at 0 3.556 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "NCV272DMR2G"
+			(at 10.16 -7.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1857,7 +1856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/tlv271-d.pdf"
+		(property "Datasheet" "IC OPAMP GP 2 CIRCUIT 8MSOP"
 			(at 0.762 13.208 0)
 			(effects
 				(font
@@ -1866,7 +1865,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CMOS Amplifier 1 Circuit Rail-to-Rail SOT-25"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Link" "https://www.digikey.com/en/products/detail/onsemi/NCV272DMR2G/13145345"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1876,19 +1884,20 @@
 			)
 		)
 		(symbol "OpAmp_NCV272_1_1"
-			(rectangle
-				(start -3.81 3.81)
-				(end 7.62 -6.35)
+			(polyline
+				(pts
+					(xy 0 2.54) (xy 10.16 -2.54) (xy 0 -7.62) (xy 0 2.54)
+				)
 				(stroke
-					(width 0)
-					(type solid)
+					(width 0.254)
+					(type default)
 				)
 				(fill
 					(type background)
 				)
 			)
 			(pin input line
-				(at -6.35 2.54 0)
+				(at -2.54 0 0)
 				(length 2.54)
 				(name "IN-1"
 					(effects
@@ -1906,7 +1915,7 @@
 				)
 			)
 			(pin input line
-				(at -6.35 0 0)
+				(at -2.54 -5.08 0)
 				(length 2.54)
 				(name "IN+1"
 					(effects
@@ -1923,17 +1932,17 @@
 					)
 				)
 			)
-			(pin input line
-				(at -6.35 -2.54 0)
+			(pin output line
+				(at 12.7 -2.54 180)
 				(length 2.54)
-				(name "IN+2"
+				(name "OUT_1"
 					(effects
 						(font
 							(size 0.635 0.635)
 						)
 					)
 				)
-				(number "5"
+				(number "1"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -1941,8 +1950,22 @@
 					)
 				)
 			)
+		)
+		(symbol "OpAmp_NCV272_2_1"
+			(polyline
+				(pts
+					(xy 0 2.54) (xy 10.16 -2.54) (xy 0 -7.62) (xy 0 2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
 			(pin input line
-				(at -6.35 -5.08 0)
+				(at -2.54 0 0)
 				(length 2.54)
 				(name "IN-2"
 					(effects
@@ -1960,7 +1983,25 @@
 				)
 			)
 			(pin input line
-				(at 2.54 6.35 270)
+				(at -2.54 -5.08 0)
+				(length 2.54)
+				(name "IN+2"
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 5.08 2.54 270)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -1978,7 +2019,7 @@
 				)
 			)
 			(pin input line
-				(at 2.54 -8.89 90)
+				(at 5.08 -7.62 90)
 				(length 2.54)
 				(name "VSS"
 					(effects
@@ -1996,25 +2037,7 @@
 				)
 			)
 			(pin output line
-				(at 10.16 1.27 180)
-				(length 2.54)
-				(name "OUT_1"
-					(effects
-						(font
-							(size 0.635 0.635)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 0.635 0.635)
-						)
-					)
-				)
-			)
-			(pin output line
-				(at 10.16 -1.27 180)
+				(at 12.7 -2.54 180)
 				(length 2.54)
 				(name "OUT_2"
 					(effects
