@@ -618,6 +618,14 @@
     [
       "9f1d1666-1e71-4846-af68-34a5e483246c",
       "Root"
+    ],
+    [
+      "941e76fc-b019-42ee-9a9c-84526f78af4f",
+      "solenoid-driver-boards-dj"
+    ],
+    [
+      "c92eba4a-59fc-4856-ba0e-dae125bde988",
+      "led-driver"
     ]
   ],
   "text_variables": {}
