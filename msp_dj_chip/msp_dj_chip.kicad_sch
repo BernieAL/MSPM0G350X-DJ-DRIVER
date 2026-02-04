@@ -12378,7 +12378,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:MSOP-8_3x3mm_P0.65mm"
 			(at 317.5 129.54 0)
 			(effects
 				(font
@@ -15653,7 +15653,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:MSOP-8_3x3mm_P0.65mm"
 			(at 317.5 142.24 0)
 			(effects
 				(font
@@ -21219,7 +21219,7 @@
 		)
 	)
 	(sheet
-		(at 90.17 176.53)
+		(at 86.36 186.69)
 		(size 34.29 48.26)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21235,7 +21235,7 @@
 		)
 		(uuid "941e76fc-b019-42ee-9a9c-84526f78af4f")
 		(property "Sheetname" "solenoid-driver-boards-dj"
-			(at 90.17 175.8184 0)
+			(at 86.36 185.9784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21244,7 +21244,7 @@
 			)
 		)
 		(property "Sheetfile" "solenoid-driver-boards-dj.kicad_sch"
-			(at 90.17 225.3746 0)
+			(at 86.36 235.5346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
