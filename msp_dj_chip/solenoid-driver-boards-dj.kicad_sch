@@ -1288,6 +1288,16 @@
 		)
 		(uuid "5287fca6-464f-4f9e-9b7d-bb02499e4f46")
 	)
+	(text "Put SENSE pins like that for all SOL OUTs"
+		(exclude_from_sim no)
+		(at 113.538 58.674 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "608293d9-d7e7-49ad-94bd-6ea235e7552c")
+	)
 	(text "SOL_OUT_10-11"
 		(exclude_from_sim no)
 		(at 232.41 140.97 0)
@@ -1672,6 +1682,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c568732-066f-4ffc-aa76-238f769d401a")
+	)
+	(junction
+		(at 91.44 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "60cb8ce9-8e39-4303-b756-a0453be6fcf1")
 	)
 	(junction
 		(at 269.24 177.8)
@@ -4621,6 +4637,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 62.23) (xy 91.44 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d5791ea-8489-4378-80f6-560896ae2b9b")
+	)
+	(wire
+		(pts
 			(xy 62.23 93.98) (xy 68.58 93.98)
 		)
 		(stroke
@@ -5281,7 +5307,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 34.29) (xy 88.9 39.37)
+			(xy 88.9 36.83) (xy 88.9 39.37)
 		)
 		(stroke
 			(width 0)
@@ -5971,6 +5997,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 62.23) (xy 93.98 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed05a4c6-a088-42c5-a8e0-c8073241b23e")
+	)
+	(wire
+		(pts
 			(xy 130.81 64.77) (xy 135.89 64.77)
 		)
 		(stroke
@@ -6356,8 +6392,8 @@
 		(uuid "11534984-5456-4df0-b7b8-522828aa4b0d")
 	)
 	(hierarchical_label "OUT_00"
-		(shape input)
-		(at 88.9 34.29 0)
+		(shape output)
+		(at 88.9 36.83 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6607,6 +6643,17 @@
 			(justify left)
 		)
 		(uuid "a9b4180e-b1a1-40b6-b5e0-940fe8266e57")
+	)
+	(hierarchical_label "SENSE_00"
+		(shape output)
+		(at 93.98 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ae79ad65-d3d8-4d74-a278-f352cd2c1c40")
 	)
 	(hierarchical_label "GPIO_INPUT_01"
 		(shape input)
@@ -25145,7 +25192,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 88.9 62.23 270)
+		(at 91.44 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25153,7 +25200,7 @@
 		(dnp no)
 		(uuid "ea05288f-2cfb-4081-9e5a-ca72bdffdfc6")
 		(property "Reference" "TP4"
-			(at 93.98 61.976 90)
+			(at 91.186 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25162,7 +25209,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 93.98 63.4999 90)
+			(at 92.7099 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25172,7 +25219,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.9 67.31 0)
+			(at 96.52 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25181,7 +25228,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 67.31 0)
+			(at 96.52 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25190,7 +25237,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 88.9 62.23 0)
+			(at 91.44 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
