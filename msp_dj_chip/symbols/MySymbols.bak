@@ -2,6 +2,257 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
+	(symbol "BAS21DW5T1G"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at 0 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "BAS21DW5T1G_0_1"
+			(polyline
+				(pts
+					(xy -2.54 2.54) (xy -1.27 2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 -1.27) (xy -1.27 -1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 3.81) (xy -1.27 1.27) (xy 1.27 2.54) (xy -1.27 3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 0) (xy -1.27 -2.54) (xy 1.27 -1.27) (xy -1.27 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 3.81) (xy 1.27 1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 2.54) (xy 2.54 2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 0) (xy 1.27 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -1.27) (xy 2.54 -1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "BAS21DW5T1G_1_1"
+			(rectangle
+				(start -2.54 5.08)
+				(end 2.54 -3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin passive line
+				(at -5.08 2.54 0)
+				(length 2.54)
+				(name ""
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -1.27 0)
+				(length 2.54)
+				(name ""
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at -5.08 -2.54 0)
+				(length 2.54)
+				(hide yes)
+				(name ""
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 2.54 180)
+				(length 2.54)
+				(name ""
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -1.27 180)
+				(length 2.54)
+				(name ""
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "DAC_60502"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -632,7 +883,7 @@
 					(type background)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 15.24 0)
 				(length 2.54)
 				(name "PA5/FCC_IN/HFXIN"
@@ -652,7 +903,7 @@
 				(alternate "FCC_IN" input line)
 				(alternate "HFXIN" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 12.7 0)
 				(length 2.54)
 				(name "PA6/HFCLK_IN/HFXOUT"
@@ -672,7 +923,7 @@
 				(alternate "HFCLK_IN" input line)
 				(alternate "HFXOUT" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 6.35 0)
 				(length 2.54)
 				(name "PA_0/FCC_IN"
@@ -691,7 +942,7 @@
 				)
 				(alternate "FCC_IN" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 2.54 0)
 				(length 2.54)
 				(name "PA1"
@@ -709,7 +960,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -1.27 0)
 				(length 2.54)
 				(name "PA12/FCC_IN"
@@ -728,7 +979,7 @@
 				)
 				(alternate "FCC_IN" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -3.81 0)
 				(length 2.54)
 				(name "PA13"
@@ -746,7 +997,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -6.35 0)
 				(length 2.54)
 				(name "PA14/A0_12/CLK_OUT"
@@ -766,7 +1017,7 @@
 				(alternate "A0__12" input line)
 				(alternate "CLK_OUT" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -8.89 0)
 				(length 2.54)
 				(name "PA15/A1_0"
@@ -785,7 +1036,7 @@
 				)
 				(alternate "A1_0" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -11.43 0)
 				(length 2.54)
 				(name "PA16"
@@ -805,7 +1056,7 @@
 				(alternate "A1_1" input line)
 				(alternate "FCC_IN" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -13.97 0)
 				(length 2.54)
 				(name "PA17"
@@ -824,7 +1075,7 @@
 				)
 				(alternate "A1_2" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -16.51 0)
 				(length 2.54)
 				(name "PA18"
@@ -843,7 +1094,7 @@
 				)
 				(alternate "A1_3" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -19.05 0)
 				(length 2.54)
 				(name "PA23"
@@ -862,7 +1113,7 @@
 				)
 				(alternate "VREF+" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -21.59 0)
 				(length 2.54)
 				(name "PA24"
@@ -881,7 +1132,7 @@
 				)
 				(alternate "A0_3" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -24.13 0)
 				(length 2.54)
 				(name "PA25"
@@ -900,7 +1151,7 @@
 				)
 				(alternate "A0_2" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -26.67 0)
 				(length 2.54)
 				(name "PA26"
@@ -919,7 +1170,7 @@
 				)
 				(alternate "A0_1" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -29.21 0)
 				(length 2.54)
 				(name "PA27"
@@ -938,7 +1189,7 @@
 				)
 				(alternate "A0_0" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -31.75 0)
 				(length 2.54)
 				(name "PA28"
@@ -956,7 +1207,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -34.29 0)
 				(length 2.54)
 				(name "PA29"
@@ -974,7 +1225,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -36.83 0)
 				(length 2.54)
 				(name "PA30"
@@ -992,7 +1243,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -39.37 0)
 				(length 2.54)
 				(name "PA31"
@@ -1011,7 +1262,7 @@
 				)
 				(alternate "CLK_OUT" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -41.91 0)
 				(length 2.54)
 				(name "PA2"
@@ -1030,7 +1281,7 @@
 				)
 				(alternate "ROSC" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -44.45 0)
 				(length 2.54)
 				(name "PA3"
@@ -1049,7 +1300,7 @@
 				)
 				(alternate "LFXIN" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -46.99 0)
 				(length 2.54)
 				(name "PA4"
@@ -1069,7 +1320,7 @@
 				(alternate "LFCLK_IN" input line)
 				(alternate "LFXOUT" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -49.53 0)
 				(length 2.54)
 				(name "PA21"
@@ -1089,7 +1340,7 @@
 				(alternate "A1_7" input line)
 				(alternate "VREF-" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -52.07 0)
 				(length 2.54)
 				(name "PA22"
@@ -1109,7 +1360,7 @@
 				(alternate "A0_7" input line)
 				(alternate "CLK_OUT" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at -25.4 -54.61 0)
 				(length 2.54)
 				(name "PB18"
@@ -1128,7 +1379,7 @@
 				)
 				(alternate "A1_5" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at 0 27.94 270)
 				(length 2.54)
 				(name "VCORE"
@@ -1146,7 +1397,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 0 -71.12 90)
 				(length 2.54)
 				(name "VSS"
@@ -1164,7 +1415,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 3.81 27.94 270)
 				(length 2.54)
 				(name "VDD"
@@ -1182,7 +1433,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 20.32 180)
 				(length 2.54)
 				(name "NRST"
@@ -1200,7 +1451,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 17.78 180)
 				(length 2.54)
 				(name "PA19"
@@ -1219,7 +1470,7 @@
 				)
 				(alternate "SWDIO" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 15.24 180)
 				(length 2.54)
 				(name "PA20"
@@ -1238,7 +1489,7 @@
 				)
 				(alternate "SWCLK" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 12.7 180)
 				(length 2.54)
 				(name "PB19"
@@ -1257,7 +1508,7 @@
 				)
 				(alternate "A1_6" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 10.16 180)
 				(length 2.54)
 				(name "PB16"
@@ -1275,7 +1526,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 7.62 180)
 				(length 2.54)
 				(name "PB15"
@@ -1293,7 +1544,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 5.08 180)
 				(length 2.54)
 				(name "PB14"
@@ -1311,7 +1562,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 2.54 180)
 				(length 2.54)
 				(name "PB13"
@@ -1329,7 +1580,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 0 180)
 				(length 2.54)
 				(name "PB1"
@@ -1347,7 +1598,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -2.54 180)
 				(length 2.54)
 				(name "PB0"
@@ -1365,7 +1616,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -5.08 180)
 				(length 2.54)
 				(name "PB24"
@@ -1384,7 +1635,7 @@
 				)
 				(alternate "A0_5" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -7.62 180)
 				(length 2.54)
 				(name "PB23"
@@ -1402,7 +1653,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -10.16 180)
 				(length 2.54)
 				(name "PB22"
@@ -1420,7 +1671,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -12.7 180)
 				(length 2.54)
 				(name "PB21"
@@ -1438,7 +1689,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -15.24 180)
 				(length 2.54)
 				(name "PB20"
@@ -1457,7 +1708,7 @@
 				)
 				(alternate "A0_6" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -17.78 180)
 				(length 2.54)
 				(name "PB27"
@@ -1475,7 +1726,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -20.32 180)
 				(length 2.54)
 				(name "PB26"
@@ -1493,7 +1744,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -22.86 180)
 				(length 2.54)
 				(name "PB25"
@@ -1512,7 +1763,7 @@
 				)
 				(alternate "A0_4" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -25.4 180)
 				(length 2.54)
 				(name "PB12"
@@ -1530,7 +1781,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -27.94 180)
 				(length 2.54)
 				(name "PB11"
@@ -1549,7 +1800,7 @@
 				)
 				(alternate "CLK_OUT" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -30.48 180)
 				(length 2.54)
 				(name "PB10"
@@ -1567,7 +1818,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -33.02 180)
 				(length 2.54)
 				(name "PB9"
@@ -1585,7 +1836,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -35.56 180)
 				(length 2.54)
 				(name "PB8"
@@ -1603,7 +1854,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -38.1 180)
 				(length 2.54)
 				(name "PB7"
@@ -1621,7 +1872,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -40.64 180)
 				(length 2.54)
 				(name "PB6"
@@ -1639,7 +1890,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -43.18 180)
 				(length 2.54)
 				(name "PA11"
@@ -1657,7 +1908,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -45.72 180)
 				(length 2.54)
 				(name "PA10"
@@ -1676,7 +1927,7 @@
 				)
 				(alternate "CLK_OUT" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -48.26 180)
 				(length 2.54)
 				(name "PA9"
@@ -1696,7 +1947,7 @@
 				(alternate "CLK_OUT" input line)
 				(alternate "RTC_OUT" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -50.8 180)
 				(length 2.54)
 				(name "PA8"
@@ -1714,7 +1965,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -53.34 180)
 				(length 2.54)
 				(name "PB5"
@@ -1732,7 +1983,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -55.88 180)
 				(length 2.54)
 				(name "PB4"
@@ -1750,7 +2001,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -58.42 180)
 				(length 2.54)
 				(name "PB3"
@@ -1768,7 +2019,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -60.96 180)
 				(length 2.54)
 				(name "PB2"
@@ -1786,7 +2037,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -63.5 180)
 				(length 2.54)
 				(name "PA7"
@@ -1805,7 +2056,7 @@
 				)
 				(alternate "CLK_OUT" input line)
 			)
-			(pin input line
+			(pin passive line
 				(at 29.21 -66.04 180)
 				(length 2.54)
 				(name "PB17"
