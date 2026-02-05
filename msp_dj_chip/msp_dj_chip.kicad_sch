@@ -2337,6 +2337,266 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "MySymbols:BAS21DW5T1G"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 0.762 0.762)
+					)
+				)
+			)
+			(property "Value" "BAS21DW5T1G"
+				(at 2.54 -11.43 0)
+				(effects
+					(font
+						(size 0.762 0.762)
+					)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/bas19lt1-d.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "DIODE ARRAY GP 250V 200MA SC88A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "DigiKey Link" "https://www.digikey.com/en/products/detail/onsemi/BAS21DW5T1G/918307"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BAS21DW5T1G_0_1"
+				(polyline
+					(pts
+						(xy -1.27 -3.81) (xy 0 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -7.62) (xy 0 -7.62)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -5.08) (xy 2.54 -3.81) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -6.35) (xy 0 -8.89) (xy 2.54 -7.62) (xy 0 -6.35)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -3.81) (xy 3.81 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -6.35) (xy 2.54 -8.89)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -7.62) (xy 3.81 -7.62)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "BAS21DW5T1G_1_1"
+				(rectangle
+					(start -1.27 -1.27)
+					(end 3.81 -10.16)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -3.81 -3.81 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 0.762 0.762)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0.762 0.762)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -3.81 -7.62 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 0.762 0.762)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 0.762 0.762)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -3.81 -8.89 0)
+					(length 2.54)
+					(hide yes)
+					(name ""
+						(effects
+							(font
+								(size 0.762 0.762)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0.762 0.762)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 -3.81 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 0.762 0.762)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 0.762 0.762)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 -7.62 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 0.762 0.762)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 0.762 0.762)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "OpAmp_NCV272_1"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -5945,12 +6205,6 @@
 		(uuid "05ccaed8-f431-4610-a1bb-6a64763e2aa5")
 	)
 	(junction
-		(at 337.82 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "08d0ce7c-5c76-4375-a886-6ceae66f59e8")
-	)
-	(junction
 		(at 142.24 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6083,6 +6337,12 @@
 		(uuid "4d53a1b5-b359-4643-8a09-61302a93503c")
 	)
 	(junction
+		(at 337.82 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50444471-8b0c-434c-a914-589b53a633bd")
+	)
+	(junction
 		(at 139.7 255.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6105,12 +6365,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "63c0fb7a-6c8f-4ed4-9538-08a63594951d")
-	)
-	(junction
-		(at 337.82 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "666ae800-b99a-400c-b552-196ab37463a4")
 	)
 	(junction
 		(at 92.71 138.43)
@@ -6159,6 +6413,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8f7a7ef8-66c5-48ee-9d45-728765a6945b")
+	)
+	(junction
+		(at 337.82 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "95962d09-350f-4e5c-8831-2e7fdb55c9bf")
 	)
 	(junction
 		(at 175.26 80.01)
@@ -6604,16 +6864,6 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 83.82) (xy 337.82 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0fc59e8e-5bf9-45a6-af50-098fdd118d01")
-	)
-	(wire
-		(pts
 			(xy 205.74 124.46) (xy 223.52 124.46)
 		)
 		(stroke
@@ -7044,16 +7294,6 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 87.63) (xy 337.82 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e902cf0-f252-4895-9dd6-695208135b2f")
-	)
-	(wire
-		(pts
 			(xy 133.35 171.45) (xy 151.13 171.45)
 		)
 		(stroke
@@ -7161,6 +7401,16 @@
 			(type default)
 		)
 		(uuid "370c8308-7bd3-4528-b588-aec5a8940428")
+	)
+	(wire
+		(pts
+			(xy 337.82 87.63) (xy 337.82 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "370e3aa2-3db1-4807-b433-827ad178155a")
 	)
 	(wire
 		(pts
@@ -8064,7 +8314,7 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 87.63) (xy 325.12 87.63)
+			(xy 312.42 87.63) (xy 322.58 87.63)
 		)
 		(stroke
 			(width 0)
@@ -8344,16 +8594,6 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 76.2) (xy 337.82 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82691f48-31e0-4918-a663-08edd3f05768")
-	)
-	(wire
-		(pts
 			(xy 127 264.16) (xy 139.7 264.16)
 		)
 		(stroke
@@ -8604,16 +8844,6 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 87.63) (xy 337.82 199.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95baa709-6a6a-4ac6-b544-be415e2a7ebd")
-	)
-	(wire
-		(pts
 			(xy 40.64 207.01) (xy 35.56 207.01)
 		)
 		(stroke
@@ -8704,7 +8934,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 83.82) (xy 337.82 87.63)
+			(xy 337.82 76.2) (xy 337.82 83.82)
 		)
 		(stroke
 			(width 0)
@@ -8991,6 +9221,16 @@
 			(type default)
 		)
 		(uuid "b56faf83-5baf-4b72-a269-257e57a7f268")
+	)
+	(wire
+		(pts
+			(xy 337.82 83.82) (xy 337.82 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b576173f-02ba-4f14-b6cf-0d4b6baf4f92")
 	)
 	(wire
 		(pts
@@ -10174,7 +10414,7 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 83.82) (xy 325.12 83.82)
+			(xy 312.42 83.82) (xy 322.58 83.82)
 		)
 		(stroke
 			(width 0)
@@ -10363,7 +10603,7 @@
 		(uuid "13f9193d-4d36-4601-8db6-eca408dea5fa")
 	)
 	(label "OUT_0"
-		(at 314.96 87.63 0)
+		(at 312.42 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10943,7 +11183,7 @@
 		(uuid "a4d1c8fa-c174-47d7-959c-5dca011d55b6")
 	)
 	(label "OUT_1"
-		(at 314.96 83.82 0)
+		(at 312.42 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12133,7 +12373,7 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse_Small")
-		(at 327.66 83.82 0)
+		(at 325.12 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12141,7 +12381,7 @@
 		(dnp no)
 		(uuid "0f6d4701-a977-4489-88b9-dadda1152877")
 		(property "Reference" "F1"
-			(at 327.66 78.232 0)
+			(at 325.12 78.232 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12149,7 +12389,7 @@
 			)
 		)
 		(property "Value" "Fuse_Small"
-			(at 327.66 81.28 0)
+			(at 325.12 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12157,7 +12397,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 327.66 83.82 0)
+			(at 325.12 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12166,7 +12406,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 327.66 83.82 0)
+			(at 325.12 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12175,7 +12415,7 @@
 			)
 		)
 		(property "Description" "Fuse, small symbol"
-			(at 327.66 83.82 0)
+			(at 325.12 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12329,6 +12569,118 @@
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c"
 					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MySymbols:BAS21DW5T1G")
+		(at 331.47 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "11ca3121-0dd3-4de9-9d43-f6d00a1c5f33")
+		(property "Reference" "D6"
+			(at 332.74 78.74 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "BAS21DW5T1G"
+			(at 332.74 80.01 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
+			(at 331.47 80.01 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/bas19lt1-d.pdf"
+			(at 331.47 80.01 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "DIODE ARRAY GP 250V 200MA SC88A"
+			(at 331.47 80.01 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Link" "https://www.digikey.com/en/products/detail/onsemi/BAS21DW5T1G/918307"
+			(at 331.47 80.01 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" ""
+			(at 331.47 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manafacture Part #" "BAS21DW5T1G"
+			(at 331.47 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor Link" ""
+			(at 331.47 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "b7ec824f-e6fb-433b-b0a2-1563b9a7ca65")
+		)
+		(pin "1"
+			(uuid "83a2f2ed-851a-4f46-8b08-624650c7fb7f")
+		)
+		(pin "5"
+			(uuid "6cf09988-bc12-4e4f-ac6d-2c696f3996da")
+		)
+		(pin "4"
+			(uuid "8718828f-6e54-40f4-b2a2-7db7c32ee456")
+		)
+		(pin "2"
+			(uuid "344b4294-0a3e-4af3-a23a-fa389a7936e8")
+		)
+		(instances
+			(project "msp_dj_chip"
+				(path "/9f1d1666-1e71-4846-af68-34a5e483246c"
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -15440,7 +15792,7 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse_Small")
-		(at 327.66 87.63 0)
+		(at 325.12 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15448,7 +15800,7 @@
 		(dnp no)
 		(uuid "6c303c1b-72c1-4f52-b9ad-c32d4f773f18")
 		(property "Reference" "F2"
-			(at 327.66 89.916 0)
+			(at 325.12 89.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15456,7 +15808,7 @@
 			)
 		)
 		(property "Value" "Fuse_Small"
-			(at 327.66 92.202 0)
+			(at 325.12 92.202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15464,7 +15816,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 327.66 87.63 0)
+			(at 325.12 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15473,7 +15825,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 327.66 87.63 0)
+			(at 325.12 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15482,7 +15834,7 @@
 			)
 		)
 		(property "Description" "Fuse, small symbol"
-			(at 327.66 87.63 0)
+			(at 325.12 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
