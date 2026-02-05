@@ -1396,6 +1396,12 @@
 		(uuid "080fd69e-63be-437e-a0a5-ac9c4d28fd65")
 	)
 	(junction
+		(at 92.71 173.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "082cec38-dee3-4900-9552-add8d0b672c8")
+	)
+	(junction
 		(at 168.91 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1406,6 +1412,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0d532f4a-0212-41d1-aca5-c392fbf56242")
+	)
+	(junction
+		(at 360.68 222.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "10b91cc1-c066-4b10-8181-c947b5a350bf")
 	)
 	(junction
 		(at 218.44 46.99)
@@ -1546,6 +1558,12 @@
 		(uuid "32922ab5-a26c-495b-9627-de0347b4fa6f")
 	)
 	(junction
+		(at 93.98 219.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "32dab4e4-a424-46b5-a98e-e9f8fee3333c")
+	)
+	(junction
 		(at 88.9 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1562,6 +1580,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "370136aa-7dcb-4a57-acdd-80352deda910")
+	)
+	(junction
+		(at 271.78 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3733b686-f352-4a73-a07d-dd3436ba6a21")
 	)
 	(junction
 		(at 139.7 224.79)
@@ -1582,10 +1606,22 @@
 		(uuid "3aedb71b-76ed-4803-bab6-6eed35f0f36c")
 	)
 	(junction
+		(at 271.78 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3cbe8a86-1ee1-475b-af78-584a670b1cb9")
+	)
+	(junction
 		(at 228.6 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "411a45a8-a7fd-467e-9bfb-33e4376eb3d0")
+	)
+	(junction
+		(at 182.88 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4239468b-1742-4c27-a3f1-a120aa744d0f")
 	)
 	(junction
 		(at 88.9 62.23)
@@ -1780,6 +1816,12 @@
 		(uuid "76a30b99-5868-461f-a6eb-b5478935bf5c")
 	)
 	(junction
+		(at 182.88 224.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "78b5d7c2-e2a2-4593-8d8a-f25746580ee2")
+	)
+	(junction
 		(at 168.91 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1796,6 +1838,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7f412a7e-f336-4176-a37b-49d3c73dfece")
+	)
+	(junction
+		(at 360.68 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8097e043-0fb9-4223-9cab-912f4d1bb7f1")
 	)
 	(junction
 		(at 298.45 92.71)
@@ -1888,6 +1936,12 @@
 		(uuid "a18c0a93-90cc-4fe5-8282-8b490b393213")
 	)
 	(junction
+		(at 360.68 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1c85bae-a663-4e81-9507-4bc5988ac1cb")
+	)
+	(junction
 		(at 176.53 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1904,6 +1958,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a786c8fa-ce04-4506-adb2-7a8abc45cae8")
+	)
+	(junction
+		(at 92.71 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a939579c-8f8e-4548-8ca6-92cc0ad8a67b")
 	)
 	(junction
 		(at 81.28 48.26)
@@ -1948,6 +2008,12 @@
 		(uuid "b5863232-92bc-4585-8ad5-aab47388bb20")
 	)
 	(junction
+		(at 273.05 223.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b77396ce-f49f-4595-81a0-5a4253c84064")
+	)
+	(junction
 		(at 218.44 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1960,10 +2026,22 @@
 		(uuid "b9ca48b4-561c-44f0-acb9-3d9da8ee3382")
 	)
 	(junction
+		(at 360.68 176.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bbbb1c95-63f7-409a-939c-d3d42a751255")
+	)
+	(junction
 		(at 118.11 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bdc5ff9d-b335-4aeb-b1ad-cb124f901e99")
+	)
+	(junction
+		(at 181.61 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be0317d2-4572-4af9-92b1-ead603f731e1")
 	)
 	(junction
 		(at 180.34 201.93)
@@ -2032,6 +2110,12 @@
 		(uuid "da89d987-1eaa-4c26-936f-82a64ccf0dee")
 	)
 	(junction
+		(at 181.61 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "daa8a7b8-b494-40d5-a1d3-dcf9b4d9dbba")
+	)
+	(junction
 		(at 248.92 209.55)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2078,6 +2162,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ecadc353-6eb8-4ca8-ade5-50196ee7a4cf")
+	)
+	(junction
+		(at 271.78 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee0d53a6-93fc-4d54-af95-666f06412153")
 	)
 	(junction
 		(at 228.6 223.52)
@@ -2347,13 +2437,23 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 232.41) (xy 180.34 234.95)
+			(xy 180.34 231.14) (xy 180.34 232.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0b192c35-b81f-4000-891b-526b31d77392")
+	)
+	(wire
+		(pts
+			(xy 92.71 173.99) (xy 88.9 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b9131fa-1732-46b0-9e57-1ea9fc243d56")
 	)
 	(wire
 		(pts
@@ -2404,6 +2504,16 @@
 			(type default)
 		)
 		(uuid "0dff895f-1c14-4a0c-b58a-795cfc94c0c4")
+	)
+	(wire
+		(pts
+			(xy 181.61 110.49) (xy 184.15 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e1103aa-8be5-4be7-be1d-904f53813403")
 	)
 	(wire
 		(pts
@@ -2617,6 +2727,16 @@
 	)
 	(wire
 		(pts
+			(xy 360.68 176.53) (xy 358.14 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cac25ae-093b-47bc-9303-6168e8bbd10b")
+	)
+	(wire
+		(pts
 			(xy 77.47 205.74) (xy 77.47 208.28)
 		)
 		(stroke
@@ -2757,6 +2877,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 173.99) (xy 96.52 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27805ff9-4498-4203-b905-b84126850394")
+	)
+	(wire
+		(pts
 			(xy 30.48 87.63) (xy 30.48 91.44)
 		)
 		(stroke
@@ -2834,6 +2964,16 @@
 			(type default)
 		)
 		(uuid "2922739e-28cf-48fc-84c3-ed92e460dd71")
+	)
+	(wire
+		(pts
+			(xy 181.61 64.77) (xy 176.53 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "294559e0-2121-446f-b915-d847ed74a93f")
 	)
 	(wire
 		(pts
@@ -2927,6 +3067,16 @@
 	)
 	(wire
 		(pts
+			(xy 360.68 63.5) (xy 356.87 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bb9348a-8a50-499b-966c-d0f096de0874")
+	)
+	(wire
+		(pts
 			(xy 254 49.53) (xy 256.54 49.53)
 		)
 		(stroke
@@ -2934,6 +3084,16 @@
 			(type default)
 		)
 		(uuid "2cd4b678-e3b1-4db7-91b8-4c96c9070cd5")
+	)
+	(wire
+		(pts
+			(xy 267.97 63.5) (xy 271.78 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d010869-4cb6-4ae1-a538-8c14d5a57243")
 	)
 	(wire
 		(pts
@@ -3094,6 +3254,16 @@
 			(type default)
 		)
 		(uuid "38679788-2937-4fbb-92ee-020aac6ac9f1")
+	)
+	(wire
+		(pts
+			(xy 360.68 63.5) (xy 363.22 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38cb9e6b-ed32-4f1b-baf4-b97b38175080")
 	)
 	(wire
 		(pts
@@ -3467,6 +3637,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 110.49) (xy 176.53 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ba7f4ce-f1f7-4ab4-ab3d-c9d7c39844ca")
+	)
+	(wire
+		(pts
 			(xy 130.81 208.28) (xy 138.43 208.28)
 		)
 		(stroke
@@ -3474,6 +3654,16 @@
 			(type default)
 		)
 		(uuid "4cb954d0-80c0-4d91-bd5b-e28c98b9474a")
+	)
+	(wire
+		(pts
+			(xy 273.05 223.52) (xy 269.24 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d4cd525-5711-4aa1-9b41-9cf67bb2fa25")
 	)
 	(wire
 		(pts
@@ -3524,6 +3714,16 @@
 			(type default)
 		)
 		(uuid "518c6ba1-c43c-42fe-9a5c-6a989f472c7b")
+	)
+	(wire
+		(pts
+			(xy 92.71 107.95) (xy 95.25 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51a7b184-b900-4d21-bde2-1974754a96da")
 	)
 	(wire
 		(pts
@@ -3594,6 +3794,16 @@
 			(type default)
 		)
 		(uuid "54f548a7-38cc-4b3a-8031-23c0aec15534")
+	)
+	(wire
+		(pts
+			(xy 267.97 109.22) (xy 271.78 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5507d436-420c-45db-b028-a13fe59ad8b2")
 	)
 	(wire
 		(pts
@@ -3777,6 +3987,16 @@
 	)
 	(wire
 		(pts
+			(xy 271.78 109.22) (xy 274.32 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d2dec45-456f-4505-a890-f8567fd1b8ae")
+	)
+	(wire
+		(pts
 			(xy 162.56 96.52) (xy 165.1 96.52)
 		)
 		(stroke
@@ -3814,6 +4034,16 @@
 			(type default)
 		)
 		(uuid "637c7f65-6432-4bc0-8bb5-bca02e48d261")
+	)
+	(wire
+		(pts
+			(xy 360.68 109.22) (xy 356.87 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63d28f8a-e864-49b9-97c4-0130e751cdfe")
 	)
 	(wire
 		(pts
@@ -3864,6 +4094,16 @@
 			(type default)
 		)
 		(uuid "6681ba02-b6c2-49dd-965f-40f610a85d99")
+	)
+	(wire
+		(pts
+			(xy 88.9 219.71) (xy 93.98 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "671c22cc-3b78-412c-8ab1-b17fcbef7740")
 	)
 	(wire
 		(pts
@@ -4047,6 +4287,16 @@
 	)
 	(wire
 		(pts
+			(xy 271.78 177.8) (xy 274.32 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "749dbeb0-94e8-4df0-9a41-dc1667a43fb4")
+	)
+	(wire
+		(pts
 			(xy 156.21 50.8) (xy 157.48 50.8)
 		)
 		(stroke
@@ -4114,6 +4364,16 @@
 			(type default)
 		)
 		(uuid "795d67ab-1199-430c-a2ac-9ce48a72a961")
+	)
+	(wire
+		(pts
+			(xy 92.71 106.68) (xy 92.71 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7acd60cd-009b-4cdf-b5b2-a35b181f6528")
 	)
 	(wire
 		(pts
@@ -4347,6 +4607,26 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 109.22) (xy 181.61 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "875fb54a-5840-40fe-87fe-44e17ad23ed6")
+	)
+	(wire
+		(pts
+			(xy 93.98 219.71) (xy 96.52 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87b57a9b-19df-4d28-98a2-e7e190d4b557")
+	)
+	(wire
+		(pts
 			(xy 121.92 208.28) (xy 121.92 210.82)
 		)
 		(stroke
@@ -4394,6 +4674,16 @@
 			(type default)
 		)
 		(uuid "897f8478-1dff-44a2-9107-048e54275b0d")
+	)
+	(wire
+		(pts
+			(xy 92.71 107.95) (xy 88.9 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c2ad29c-c5f1-4c42-8eff-9079fa159905")
 	)
 	(wire
 		(pts
@@ -4597,7 +4887,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 224.79) (xy 180.34 227.33)
+			(xy 180.34 224.79) (xy 180.34 226.06)
 		)
 		(stroke
 			(width 0)
@@ -4654,6 +4944,16 @@
 			(type default)
 		)
 		(uuid "9d8e5a18-98b4-47ef-a34d-7ee0bb3bf534")
+	)
+	(wire
+		(pts
+			(xy 360.68 222.25) (xy 363.22 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e3156af-f646-4b2e-b55f-99ee2cbd0101")
 	)
 	(wire
 		(pts
@@ -4777,6 +5077,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 64.77) (xy 184.15 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3fd9b8a-a095-4397-9224-01dacf40febc")
+	)
+	(wire
+		(pts
 			(xy 350.52 165.1) (xy 350.52 162.56)
 		)
 		(stroke
@@ -4837,6 +5147,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 224.79) (xy 185.42 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab9317eb-699c-4754-9001-fd97256c5cf1")
+	)
+	(wire
+		(pts
 			(xy 356.87 109.22) (xy 356.87 111.76)
 		)
 		(stroke
@@ -4884,6 +5204,16 @@
 			(type default)
 		)
 		(uuid "ae1b3f78-c1b7-4a60-8d72-1f709015d72a")
+	)
+	(wire
+		(pts
+			(xy 360.68 176.53) (xy 363.22 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "afc8c219-37a6-426c-9b8e-01abf482442e")
 	)
 	(wire
 		(pts
@@ -5167,6 +5497,36 @@
 	)
 	(wire
 		(pts
+			(xy 271.78 63.5) (xy 274.32 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3aafdac-a22b-43d9-a29b-aa1508abec53")
+	)
+	(wire
+		(pts
+			(xy 273.05 223.52) (xy 274.32 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3bae8fe-6396-4d6b-84b0-a2931c77ac53")
+	)
+	(wire
+		(pts
+			(xy 271.78 177.8) (xy 269.24 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3c10e7c-2887-45d8-b7e1-747c1d2f92cb")
+	)
+	(wire
+		(pts
 			(xy 358.14 222.25) (xy 358.14 224.79)
 		)
 		(stroke
@@ -5224,6 +5584,16 @@
 			(type default)
 		)
 		(uuid "c6c0f7e9-01e8-446e-8358-ecb3fdabe386")
+	)
+	(wire
+		(pts
+			(xy 182.88 179.07) (xy 185.42 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6d646b5-9342-4f69-b6cb-e0afd3289f6f")
 	)
 	(wire
 		(pts
@@ -5627,6 +5997,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 63.5) (xy 181.61 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9b92521-6d39-42e8-acd2-eb4ef113abf8")
+	)
+	(wire
+		(pts
 			(xy 346.71 208.28) (xy 350.52 208.28)
 		)
 		(stroke
@@ -5744,6 +6124,16 @@
 			(type default)
 		)
 		(uuid "df9336e9-9b0c-41fe-b006-0a5cb83b5399")
+	)
+	(wire
+		(pts
+			(xy 182.88 179.07) (xy 180.34 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfcfc184-bb8a-4232-8a66-e4cfacfc3037")
 	)
 	(wire
 		(pts
@@ -6027,6 +6417,16 @@
 	)
 	(wire
 		(pts
+			(xy 360.68 222.25) (xy 358.14 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eec507b7-5fc5-458e-86e0-925257d90756")
+	)
+	(wire
+		(pts
 			(xy 331.47 208.28) (xy 337.82 208.28)
 		)
 		(stroke
@@ -6114,6 +6514,16 @@
 			(type default)
 		)
 		(uuid "f33ee3cc-ea6e-4dab-8f4f-58533deaf98f")
+	)
+	(wire
+		(pts
+			(xy 182.88 224.79) (xy 180.34 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f42b6f3b-20a9-49f9-b9b5-ac75396416fb")
 	)
 	(wire
 		(pts
@@ -6254,6 +6664,16 @@
 			(type default)
 		)
 		(uuid "fbd85e80-8ccd-4e20-9216-4d551ed06876")
+	)
+	(wire
+		(pts
+			(xy 360.68 109.22) (xy 363.22 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc2b5683-05aa-4e97-8c52-6d5c3ab4a0a7")
 	)
 	(wire
 		(pts
@@ -6402,6 +6822,17 @@
 		)
 		(uuid "176c0181-df74-4a62-ba91-33ead46d7b05")
 	)
+	(hierarchical_label "SENSE_09"
+		(shape output)
+		(at 274.32 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "17c8b54b-a615-4693-8628-15dfe8ce06a8")
+	)
 	(hierarchical_label "OUT_01"
 		(shape input)
 		(at 88.9 80.01 0)
@@ -6424,6 +6855,17 @@
 		)
 		(uuid "1ff79b56-3f66-4fbe-ac2b-7a0ecde1fd7b")
 	)
+	(hierarchical_label "SENSE_07"
+		(shape output)
+		(at 185.42 224.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "23c33ab6-dbef-44a3-a5b4-978ae889bc7e")
+	)
 	(hierarchical_label "OUT_07"
 		(shape input)
 		(at 180.34 196.85 0)
@@ -6445,6 +6887,17 @@
 			(justify left)
 		)
 		(uuid "363ceae8-6a0c-4095-badd-45773de3bcf5")
+	)
+	(hierarchical_label "SENSE_01"
+		(shape output)
+		(at 95.25 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3d2c03ee-5f5e-47fe-b28e-368b137e7245")
 	)
 	(hierarchical_label "OUT_11"
 		(shape input)
@@ -6490,6 +6943,17 @@
 		)
 		(uuid "539afcbb-bee0-494a-8933-78d94787ee34")
 	)
+	(hierarchical_label "SENSE_15"
+		(shape output)
+		(at 363.22 222.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "59452f7b-9cff-44d6-bcca-0c52436cf45f")
+	)
 	(hierarchical_label "GPIO_INPUT_03"
 		(shape input)
 		(at 30.48 189.23 0)
@@ -6500,6 +6964,17 @@
 			(justify left)
 		)
 		(uuid "59ab4ead-a651-4b67-969d-5a2778c403ab")
+	)
+	(hierarchical_label "SENSE_03"
+		(shape output)
+		(at 96.52 219.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5dc246d6-be49-4aa7-aec1-c62c1285ac3b")
 	)
 	(hierarchical_label "GPIO_INPUT_12"
 		(shape input)
@@ -6555,6 +7030,17 @@
 			(justify left)
 		)
 		(uuid "6ae6a61d-cb94-49c3-8bd1-a8a453a0c7ab")
+	)
+	(hierarchical_label "SENSE_14"
+		(shape output)
+		(at 363.22 176.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "753382f8-9dcb-4a36-a68b-c4caae22b721")
 	)
 	(hierarchical_label "GPIO_INPUT_05"
 		(shape input)
@@ -6622,6 +7108,17 @@
 		)
 		(uuid "9e12a4f0-7d50-4e23-ad19-7f35ab13a054")
 	)
+	(hierarchical_label "SENSE_05"
+		(shape output)
+		(at 184.15 110.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9ef439a8-7e2f-49c6-8911-abe63d8873ff")
+	)
 	(hierarchical_label "OUT_13"
 		(shape input)
 		(at 356.87 81.28 0)
@@ -6632,6 +7129,17 @@
 			(justify left)
 		)
 		(uuid "a220b6c1-6ec7-401f-bc88-7e95fd9d207e")
+	)
+	(hierarchical_label "SENSE_06"
+		(shape output)
+		(at 185.42 179.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a74de0fa-cf4c-4d9b-a700-b5c7bae7b2b9")
 	)
 	(hierarchical_label "GPIO_INPUT_02"
 		(shape input)
@@ -6677,6 +7185,61 @@
 		)
 		(uuid "b821036c-d93a-46a7-8a4a-53a71f42130a")
 	)
+	(hierarchical_label "SENSE_04"
+		(shape output)
+		(at 184.15 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c4aee075-7ca4-4a03-88d5-235f425892d3")
+	)
+	(hierarchical_label "SENSE_13"
+		(shape output)
+		(at 363.22 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c506b150-247e-4799-8951-70ada4dcdbbb")
+	)
+	(hierarchical_label "SENSE_08"
+		(shape output)
+		(at 274.32 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cbd327c5-7398-4e5c-aac1-b6319166e76a")
+	)
+	(hierarchical_label "SENSE_12"
+		(shape output)
+		(at 363.22 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e9e59245-ef33-4010-92d9-ccef563c4f76")
+	)
+	(hierarchical_label "SENSE_11"
+		(shape output)
+		(at 274.32 223.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f5aeb61d-4094-44ed-8103-ba8167ca3d9f")
+	)
 	(hierarchical_label "OUT_02"
 		(shape input)
 		(at 88.9 146.05 0)
@@ -6688,6 +7251,28 @@
 		)
 		(uuid "f640537b-238b-490f-9586-c6cf4b425d7a")
 	)
+	(hierarchical_label "SENSE_10"
+		(shape output)
+		(at 274.32 177.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fcd15e9f-17e4-4925-983f-fd48fc25ac10")
+	)
+	(hierarchical_label "SENSE_02"
+		(shape output)
+		(at 96.52 173.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fd99a5d7-2788-4d72-8846-ddf9ef1972e6")
+	)
 	(symbol
 		(lib_id "Device:R_Small")
 		(at 165.1 55.88 180)
@@ -6697,7 +7282,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "002dafeb-53f5-498d-9f97-ced05935c2ee")
-		(property "Reference" "R80"
+		(property "Reference" "R70"
 			(at 162.814 55.88 90)
 			(effects
 				(font
@@ -6749,7 +7334,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R80")
+					(reference "R70")
 					(unit 1)
 				)
 			)
@@ -6764,7 +7349,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "01ed1520-db92-4f6c-a37a-3a9d95bc8dbe")
-		(property "Reference" "R72"
+		(property "Reference" "R54"
 			(at 120.65 40.6399 0)
 			(effects
 				(font
@@ -6818,7 +7403,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R72")
+					(reference "R54")
 					(unit 1)
 				)
 			)
@@ -6834,7 +7419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02247eb2-95d3-4d90-b971-5d09a3278aa9")
-		(property "Reference" "TP12"
+		(property "Reference" "TP4"
 			(at 41.91 152.9079 0)
 			(effects
 				(font
@@ -6886,7 +7471,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP12")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -6901,7 +7486,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "024aafae-25f4-4e15-a3a4-ae609cb960ee")
-		(property "Reference" "R66"
+		(property "Reference" "R44"
 			(at 72.39 162.306 90)
 			(effects
 				(font
@@ -6953,7 +7538,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R66")
+					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -6961,7 +7546,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 180.34 224.79 270)
+		(at 182.88 224.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6969,7 +7554,7 @@
 		(dnp no)
 		(uuid "02a83bfe-7ba0-4e5b-a1f1-a6359ab02de6")
 		(property "Reference" "TP41"
-			(at 185.42 224.536 90)
+			(at 182.626 219.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6978,7 +7563,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 185.42 226.0599 90)
+			(at 184.1499 219.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6988,7 +7573,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 180.34 229.87 0)
+			(at 187.96 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6997,7 +7582,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 180.34 229.87 0)
+			(at 187.96 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7006,7 +7591,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 180.34 224.79 0)
+			(at 182.88 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7035,7 +7620,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "037f356d-fb40-44ff-8f81-25cdb59d9ccb")
-		(property "Reference" "R96"
+		(property "Reference" "R82"
 			(at 213.36 153.6699 0)
 			(effects
 				(font
@@ -7089,7 +7674,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R96")
+					(reference "R82")
 					(unit 1)
 				)
 			)
@@ -7104,7 +7689,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "03b3ca68-deeb-428b-96e7-d220de6896a3")
-		(property "Reference" "TP37"
+		(property "Reference" "TP33"
 			(at 172.72 207.772 0)
 			(effects
 				(font
@@ -7156,7 +7741,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP37")
+					(reference "TP33")
 					(unit 1)
 				)
 			)
@@ -7239,7 +7824,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "05e13fa4-dbf8-4c5e-b5ab-f57aba6e7200")
-		(property "Reference" "R92"
+		(property "Reference" "R72"
 			(at 166.624 170.18 90)
 			(effects
 				(font
@@ -7291,7 +7876,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R92")
+					(reference "R72")
 					(unit 1)
 				)
 			)
@@ -7306,7 +7891,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0625a899-4fc5-4fc4-b97a-b8a2b75f447a")
-		(property "Reference" "TP28"
+		(property "Reference" "TP34"
 			(at 182.626 40.64 0)
 			(effects
 				(font
@@ -7358,7 +7943,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP28")
+					(reference "TP34")
 					(unit 1)
 				)
 			)
@@ -7441,7 +8026,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "08cda199-1c32-4fec-a30e-f35b8ecbb63c")
-		(property "Reference" "TP18"
+		(property "Reference" "TP16"
 			(at 94.996 149.86 0)
 			(effects
 				(font
@@ -7493,7 +8078,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP18")
+					(reference "TP16")
 					(unit 1)
 				)
 			)
@@ -7509,7 +8094,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08d97ee2-bc48-417e-8345-853d92ddfb5e")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR099"
 			(at 234.95 208.28 0)
 			(effects
 				(font
@@ -7559,7 +8144,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0105")
+					(reference "#PWR099")
 					(unit 1)
 				)
 			)
@@ -7574,7 +8159,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0a6280ed-cf03-4b60-8817-fca141e7d4a5")
-		(property "Reference" "R108"
+		(property "Reference" "R92"
 			(at 252.73 166.116 90)
 			(effects
 				(font
@@ -7626,7 +8211,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R108")
+					(reference "R92")
 					(unit 1)
 				)
 			)
@@ -7641,7 +8226,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0a9ed5df-86b4-4439-a1df-4c8833d8e9f0")
-		(property "Reference" "R129"
+		(property "Reference" "R111"
 			(at 338.836 107.442 90)
 			(effects
 				(font
@@ -7693,7 +8278,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R129")
+					(reference "R111")
 					(unit 1)
 				)
 			)
@@ -7709,7 +8294,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0ae9d418-bbbd-41bc-afc6-f91e8eeef902")
-		(property "Reference" "TP47"
+		(property "Reference" "TP49"
 			(at 231.14 225.5519 0)
 			(effects
 				(font
@@ -7761,7 +8346,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP47")
+					(reference "TP49")
 					(unit 1)
 				)
 			)
@@ -7859,7 +8444,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11b2d784-35dc-402f-913f-05dc3ee21e19")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR074"
 			(at 88.9 124.46 0)
 			(effects
 				(font
@@ -7910,7 +8495,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR076")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -7925,7 +8510,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1217927a-72e7-4dd6-abdf-c7bcb5586765")
-		(property "Reference" "R127"
+		(property "Reference" "R109"
 			(at 302.26 209.5499 0)
 			(effects
 				(font
@@ -7979,7 +8564,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R127")
+					(reference "R109")
 					(unit 1)
 				)
 			)
@@ -8061,7 +8646,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1438dc2d-ae15-473a-a7c6-ef054d5f668c")
-		(property "Reference" "U23"
+		(property "Reference" "U16"
 			(at 318.77 201.422 0)
 			(effects
 				(font
@@ -8140,7 +8725,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U23")
+					(reference "U16")
 					(unit 2)
 				)
 			)
@@ -8156,7 +8741,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14af8821-6652-4e6c-989b-39629376feb5")
-		(property "Reference" "U19"
+		(property "Reference" "U12"
 			(at 146.05 154.94 0)
 			(effects
 				(font
@@ -8235,7 +8820,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U19")
+					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -8251,7 +8836,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15368907-cc6a-4e62-af73-2244d4b2c029")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR0100"
 			(at 234.95 220.98 0)
 			(effects
 				(font
@@ -8302,7 +8887,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0106")
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -8318,7 +8903,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15e057c3-e1ab-463f-8c0e-b014febdcf3d")
-		(property "Reference" "#PWR0124"
+		(property "Reference" "#PWR0116"
 			(at 323.85 219.71 0)
 			(effects
 				(font
@@ -8369,7 +8954,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0124")
+					(reference "#PWR0116")
 					(unit 1)
 				)
 			)
@@ -8384,7 +8969,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "171d2fd8-3e6a-4a37-b670-c5e17d73d999")
-		(property "Reference" "U19"
+		(property "Reference" "U12"
 			(at 140.97 203.962 0)
 			(effects
 				(font
@@ -8463,7 +9048,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U19")
+					(reference "U12")
 					(unit 2)
 				)
 			)
@@ -8545,7 +9130,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1b049c16-931b-4385-b8e5-eb1199af8e5c")
-		(property "Reference" "U21"
+		(property "Reference" "U13"
 			(at 228.6 88.392 0)
 			(effects
 				(font
@@ -8624,7 +9209,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U21")
+					(reference "U13")
 					(unit 2)
 				)
 			)
@@ -8639,7 +9224,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "1ea2c80c-5eda-4fa6-b9cc-f3b7cc3be973")
-		(property "Reference" "R93"
+		(property "Reference" "R73"
 			(at 166.624 215.9 90)
 			(effects
 				(font
@@ -8691,7 +9276,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R93")
+					(reference "R73")
 					(unit 1)
 				)
 			)
@@ -8707,7 +9292,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ee1c28a-7575-4cce-8d3b-39a1223d614a")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR097"
 			(at 233.68 93.98 0)
 			(effects
 				(font
@@ -8757,7 +9342,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0107")
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
@@ -8773,7 +9358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fff2d2c-3aed-43d0-9317-3e1fa7bb0caa")
-		(property "Reference" "#PWR095"
+		(property "Reference" "#PWR083"
 			(at 146.05 209.55 0)
 			(effects
 				(font
@@ -8823,7 +9408,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR095")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -8839,7 +9424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20561947-919d-40ba-834c-2ff5bb30c249")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR066"
 			(at 54.61 105.41 0)
 			(effects
 				(font
@@ -8890,7 +9475,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR072")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -8906,7 +9491,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "214f367a-08b1-430f-917f-4e79532c9d6c")
-		(property "Reference" "TP24"
+		(property "Reference" "TP26"
 			(at 138.43 66.8019 0)
 			(effects
 				(font
@@ -8958,7 +9543,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP24")
+					(reference "TP26")
 					(unit 1)
 				)
 			)
@@ -9041,7 +9626,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "222e4e79-b43d-47bd-88ca-d70c4ab6be7b")
-		(property "Reference" "#PWR0123"
+		(property "Reference" "#PWR0115"
 			(at 323.85 207.01 0)
 			(effects
 				(font
@@ -9091,7 +9676,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0123")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -9106,7 +9691,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "224cd874-ecef-47d3-81d4-b9129aebef0c")
-		(property "Reference" "R57"
+		(property "Reference" "R43"
 			(at 72.39 96.266 90)
 			(effects
 				(font
@@ -9158,7 +9743,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R57")
+					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -9173,7 +9758,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "23a60bf6-94da-42ce-b942-672f4013660b")
-		(property "Reference" "R90"
+		(property "Reference" "R68"
 			(at 163.83 167.386 90)
 			(effects
 				(font
@@ -9225,7 +9810,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R90")
+					(reference "R68")
 					(unit 1)
 				)
 			)
@@ -9233,15 +9818,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 176.53 64.77 270)
+		(at 181.61 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "23fcca8a-5ac4-40ed-a0a8-0c8bf2e8ff59")
-		(property "Reference" "TP29"
-			(at 181.61 64.516 90)
+		(property "Reference" "TP38"
+			(at 181.356 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9250,7 +9835,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 181.61 66.0399 90)
+			(at 182.8799 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9260,7 +9845,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 69.85 0)
+			(at 186.69 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9269,7 +9854,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 176.53 69.85 0)
+			(at 186.69 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9278,7 +9863,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 176.53 64.77 0)
+			(at 181.61 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9292,7 +9877,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP29")
+					(reference "TP38")
 					(unit 1)
 				)
 			)
@@ -9308,7 +9893,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25217b03-d0ed-48b8-847c-dbcae5684f02")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR089"
 			(at 176.53 80.01 0)
 			(effects
 				(font
@@ -9359,7 +9944,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR091")
+					(reference "#PWR089")
 					(unit 1)
 				)
 			)
@@ -9456,7 +10041,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "25afcf5a-8526-4f59-be3a-f09cf62510d5")
-		(property "Reference" "C27"
+		(property "Reference" "C29"
 			(at 252.7363 149.86 90)
 			(effects
 				(font
@@ -9508,7 +10093,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "C27")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -9591,7 +10176,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "26387315-0445-416d-9ccb-5b4c72a06247")
-		(property "Reference" "TP80"
+		(property "Reference" "TP77"
 			(at 364.236 198.12 0)
 			(effects
 				(font
@@ -9643,7 +10228,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP80")
+					(reference "TP77")
 					(unit 1)
 				)
 			)
@@ -9658,7 +10243,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "26aabed8-58a3-4fdb-aabe-5edf3469e749")
-		(property "Reference" "R75"
+		(property "Reference" "R57"
 			(at 120.65 97.7899 0)
 			(effects
 				(font
@@ -9712,7 +10297,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R75")
+					(reference "R57")
 					(unit 1)
 				)
 			)
@@ -9727,7 +10312,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "26b669c5-36c5-4d65-a908-9c0a97831c20")
-		(property "Reference" "TP60"
+		(property "Reference" "TP55"
 			(at 274.066 85.09 0)
 			(effects
 				(font
@@ -9779,7 +10364,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP60")
+					(reference "TP55")
 					(unit 1)
 				)
 			)
@@ -9794,7 +10379,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "26cd6ffa-19f2-439c-8aa4-0ad07d816f35")
-		(property "Reference" "R97"
+		(property "Reference" "R83"
 			(at 213.36 165.0999 0)
 			(effects
 				(font
@@ -9848,7 +10433,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R97")
+					(reference "R83")
 					(unit 1)
 				)
 			)
@@ -9864,7 +10449,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27deaa54-cef0-4f94-ac93-f92de92cc523")
-		(property "Reference" "TP46"
+		(property "Reference" "TP48"
 			(at 231.14 179.8319 0)
 			(effects
 				(font
@@ -9916,7 +10501,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP46")
+					(reference "TP48")
 					(unit 1)
 				)
 			)
@@ -9999,7 +10584,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "290e95d4-9e13-4c18-9d23-ea904f39f45f")
-		(property "Reference" "TP34"
+		(property "Reference" "TP28"
 			(at 142.24 181.1019 0)
 			(effects
 				(font
@@ -10051,7 +10636,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP34")
+					(reference "TP28")
 					(unit 1)
 				)
 			)
@@ -10066,7 +10651,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "29cee58b-2c3e-482d-90c2-4e5de3cbb8a0")
-		(property "Reference" "R48"
+		(property "Reference" "R30"
 			(at 33.02 38.0999 0)
 			(effects
 				(font
@@ -10120,7 +10705,7 @@
 		(instances
 			(project ""
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R48")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -10201,10 +10786,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2a4be8c7-6425-425c-a039-0f759abc3327")
 		(property "Reference" "Q4"
-			(at 184.15 166.3699 0)
+			(at 183.388 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10213,7 +10797,7 @@
 			)
 		)
 		(property "Value" "PMGD780SN"
-			(at 184.15 168.9099 0)
+			(at 183.388 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10284,7 +10868,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2a7a7771-28a2-4412-bc73-5f61768238a4")
-		(property "Reference" "TP54"
+		(property "Reference" "TP56"
 			(at 275.336 153.67 0)
 			(effects
 				(font
@@ -10336,7 +10920,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP54")
+					(reference "TP56")
 					(unit 1)
 				)
 			)
@@ -10351,7 +10935,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2b29d6a0-b7b0-4123-a447-6db3b2085f28")
-		(property "Reference" "TP58"
+		(property "Reference" "TP54"
 			(at 274.066 39.37 0)
 			(effects
 				(font
@@ -10403,7 +10987,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP58")
+					(reference "TP54")
 					(unit 1)
 				)
 			)
@@ -10417,10 +11001,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2c7f7d6f-56ae-4b05-a791-457df77afe3d")
 		(property "Reference" "Q3"
-			(at 180.34 97.7899 0)
+			(at 180.086 94.488 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10429,7 +11012,7 @@
 			)
 		)
 		(property "Value" "PMGD780SN"
-			(at 180.34 100.3299 0)
+			(at 180.086 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10501,7 +11084,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d65fe3d-0534-4be7-ad8d-2adc451bbe0a")
-		(property "Reference" "TP43"
+		(property "Reference" "TP45"
 			(at 222.25 202.4379 0)
 			(effects
 				(font
@@ -10553,7 +11136,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP43")
+					(reference "TP45")
 					(unit 1)
 				)
 			)
@@ -10568,7 +11151,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2eababd7-f5bb-4eab-aeab-fddc141be4fe")
-		(property "Reference" "U17"
+		(property "Reference" "U10"
 			(at 49.53 198.882 0)
 			(effects
 				(font
@@ -10647,7 +11230,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U17")
+					(reference "U10")
 					(unit 2)
 				)
 			)
@@ -10662,7 +11245,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2fccf0cd-1017-4290-b87b-5693efe0f4ad")
-		(property "Reference" "R99"
+		(property "Reference" "R85"
 			(at 213.36 210.8199 0)
 			(effects
 				(font
@@ -10716,7 +11299,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R99")
+					(reference "R85")
 					(unit 1)
 				)
 			)
@@ -10732,7 +11315,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31cbb49b-137d-429f-8b38-456a3b4d6408")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR063"
 			(at 30.48 173.99 0)
 			(effects
 				(font
@@ -10782,7 +11365,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR077")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -10797,7 +11380,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "320d5f1c-5a97-47f1-96e0-640dc3dc4e99")
-		(property "Reference" "R81"
+		(property "Reference" "R71"
 			(at 162.814 101.6 90)
 			(effects
 				(font
@@ -10849,7 +11432,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R81")
+					(reference "R71")
 					(unit 1)
 				)
 			)
@@ -10864,7 +11447,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "32a3b6bc-cb70-4f22-b98d-83ff36e780e5")
-		(property "Reference" "TP10"
+		(property "Reference" "TP15"
 			(at 94.996 83.82 0)
 			(effects
 				(font
@@ -10916,7 +11499,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP10")
+					(reference "TP15")
 					(unit 1)
 				)
 			)
@@ -10931,7 +11514,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "344ce04a-a2db-4f15-b920-3182727e9d8c")
-		(property "Reference" "TP5"
+		(property "Reference" "TP10"
 			(at 81.28 45.212 0)
 			(effects
 				(font
@@ -10983,7 +11566,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP5")
+					(reference "TP10")
 					(unit 1)
 				)
 			)
@@ -10998,7 +11581,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "35c9d108-c635-4b68-aa5e-89a1e68a28b2")
-		(property "Reference" "R65"
+		(property "Reference" "R41"
 			(at 70.866 217.932 90)
 			(effects
 				(font
@@ -11050,7 +11633,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R65")
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -11065,7 +11648,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "3639d91c-543a-4e41-b53c-d61c050e1663")
-		(property "Reference" "R138"
+		(property "Reference" "R120"
 			(at 344.424 167.64 90)
 			(effects
 				(font
@@ -11117,7 +11700,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R138")
+					(reference "R120")
 					(unit 1)
 				)
 			)
@@ -11132,7 +11715,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "38639c5a-2638-4c12-ad4d-20f42f2d05dd")
-		(property "Reference" "R83"
+		(property "Reference" "R75"
 			(at 178.308 115.316 90)
 			(effects
 				(font
@@ -11184,7 +11767,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R83")
+					(reference "R75")
 					(unit 1)
 				)
 			)
@@ -11200,7 +11783,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "398b84a5-fc09-4624-b2cd-b70b9d455929")
-		(property "Reference" "#PWR0122"
+		(property "Reference" "#PWR0114"
 			(at 322.58 106.68 0)
 			(effects
 				(font
@@ -11251,7 +11834,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0122")
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -11267,7 +11850,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39c8a32f-e18e-4fb0-b367-be63a98801ca")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR085"
 			(at 165.1 64.77 0)
 			(effects
 				(font
@@ -11318,7 +11901,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR089")
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -11333,7 +11916,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "39f98c34-9b21-49e1-8ecf-016ff12c69a6")
-		(property "Reference" "R139"
+		(property "Reference" "R121"
 			(at 344.424 213.36 90)
 			(effects
 				(font
@@ -11385,7 +11968,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R139")
+					(reference "R121")
 					(unit 1)
 				)
 			)
@@ -11482,7 +12065,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3b021510-c530-4f24-9519-fde5b842ce16")
-		(property "Reference" "R101"
+		(property "Reference" "R79"
 			(at 212.09 50.7999 0)
 			(effects
 				(font
@@ -11536,7 +12119,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R101")
+					(reference "R79")
 					(unit 1)
 				)
 			)
@@ -11551,7 +12134,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3ba12322-d0c2-4d04-a51d-8c8408563d44")
-		(property "Reference" "R85"
+		(property "Reference" "R59"
 			(at 124.46 166.3699 0)
 			(effects
 				(font
@@ -11605,7 +12188,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R85")
+					(reference "R59")
 					(unit 1)
 				)
 			)
@@ -11620,7 +12203,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3be6ab07-b2d1-42cd-bc47-acb0dc62a157")
-		(property "Reference" "TP17"
+		(property "Reference" "TP13"
 			(at 81.28 202.692 0)
 			(effects
 				(font
@@ -11672,7 +12255,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP17")
+					(reference "TP13")
 					(unit 1)
 				)
 			)
@@ -11680,15 +12263,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 88.9 173.99 270)
+		(at 92.71 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "3cb3ab0f-6402-40ef-b8ce-59590cf00867")
-		(property "Reference" "TP19"
-			(at 93.98 173.736 90)
+		(property "Reference" "TP20"
+			(at 92.456 168.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11697,7 +12280,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 93.98 175.2599 90)
+			(at 93.9799 168.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11707,7 +12290,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.9 179.07 0)
+			(at 97.79 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11716,7 +12299,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 179.07 0)
+			(at 97.79 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11725,7 +12308,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 88.9 173.99 0)
+			(at 92.71 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11739,7 +12322,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP19")
+					(reference "TP20")
 					(unit 1)
 				)
 			)
@@ -11754,7 +12337,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3ccd96bf-7499-422e-acd3-b4fad6e210f8")
-		(property "Reference" "R100"
+		(property "Reference" "R78"
 			(at 212.09 39.3699 0)
 			(effects
 				(font
@@ -11808,7 +12391,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R100")
+					(reference "R78")
 					(unit 1)
 				)
 			)
@@ -11891,7 +12474,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3d791b76-b70a-4c76-ae44-844701616fee")
-		(property "Reference" "R104"
+		(property "Reference" "R90"
 			(at 251.206 176.022 90)
 			(effects
 				(font
@@ -11943,7 +12526,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R104")
+					(reference "R90")
 					(unit 1)
 				)
 			)
@@ -11959,7 +12542,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e60dcf3-a2e4-4fbe-8150-f893a14dc5ab")
-		(property "Reference" "U23"
+		(property "Reference" "U16"
 			(at 323.85 152.4 0)
 			(effects
 				(font
@@ -12038,7 +12621,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U23")
+					(reference "U16")
 					(unit 1)
 				)
 			)
@@ -12054,7 +12637,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fbcd2a1-3a3f-4b0e-9290-53611241474d")
-		(property "Reference" "#PWR0111"
+		(property "Reference" "#PWR0101"
 			(at 256.54 63.5 0)
 			(effects
 				(font
@@ -12105,7 +12688,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0111")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -12121,7 +12704,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4032b5e5-8c68-4e68-95fd-7e7aa2c23a84")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR076"
 			(at 88.9 236.22 0)
 			(effects
 				(font
@@ -12172,7 +12755,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR084")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -12188,7 +12771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4613ab86-3413-4af9-baab-4dffcf1bc7e1")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR068"
 			(at 54.61 217.17 0)
 			(effects
 				(font
@@ -12239,7 +12822,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR080")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -12254,7 +12837,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "46a19268-d54c-416a-add0-cc4df5867d4b")
-		(property "Reference" "U18"
+		(property "Reference" "U11"
 			(at 137.16 89.662 0)
 			(effects
 				(font
@@ -12333,7 +12916,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U18")
+					(reference "U11")
 					(unit 2)
 				)
 			)
@@ -12349,7 +12932,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46dd9130-10ee-4a22-b9cb-05607f535c81")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR096"
 			(at 210.82 223.52 0)
 			(effects
 				(font
@@ -12399,7 +12982,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0102")
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -12415,7 +12998,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47c1fdd9-ab51-4760-a63b-91c1e57efe34")
-		(property "Reference" "TP48"
+		(property "Reference" "TP46"
 			(at 229.87 65.5319 0)
 			(effects
 				(font
@@ -12467,7 +13050,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP48")
+					(reference "TP46")
 					(unit 1)
 				)
 			)
@@ -12483,7 +13066,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "482dc8af-cd02-4724-8afd-88129599a9e2")
-		(property "Reference" "#PWR0128"
+		(property "Reference" "#PWR0120"
 			(at 346.71 222.25 0)
 			(effects
 				(font
@@ -12534,7 +13117,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0128")
+					(reference "#PWR0120")
 					(unit 1)
 				)
 			)
@@ -12550,7 +13133,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "48d2d9a1-ab7c-4b98-8ee0-69ea0e639e14")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR077"
 			(at 118.11 64.77 0)
 			(effects
 				(font
@@ -12600,7 +13183,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR085")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -12615,7 +13198,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4953b20b-4aac-4166-964f-d79ace2f7376")
-		(property "Reference" "R125"
+		(property "Reference" "R107"
 			(at 302.26 163.8299 0)
 			(effects
 				(font
@@ -12669,7 +13252,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R125")
+					(reference "R107")
 					(unit 1)
 				)
 			)
@@ -12684,7 +13267,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4c4f3205-78e9-43f5-8d4f-3689c52bd9ba")
-		(property "Reference" "TP53"
+		(property "Reference" "TP51"
 			(at 260.35 92.202 0)
 			(effects
 				(font
@@ -12736,7 +13319,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP53")
+					(reference "TP51")
 					(unit 1)
 				)
 			)
@@ -12751,7 +13334,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4cc65564-d4d8-4f2a-bc66-e02b6636b288")
-		(property "Reference" "R56"
+		(property "Reference" "R39"
 			(at 70.866 106.172 90)
 			(effects
 				(font
@@ -12803,7 +13386,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R56")
+					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -12819,7 +13402,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d3e3d5d-c7eb-44de-8d80-fc3fef68ac34")
-		(property "Reference" "#PWR0127"
+		(property "Reference" "#PWR0119"
 			(at 346.71 176.53 0)
 			(effects
 				(font
@@ -12870,7 +13453,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0127")
+					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -12886,7 +13469,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d7271c2-6202-4121-8701-1e0211f8685f")
-		(property "Reference" "#PWR0129"
+		(property "Reference" "#PWR0121"
 			(at 356.87 78.74 0)
 			(effects
 				(font
@@ -12937,7 +13520,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0129")
+					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
@@ -12952,7 +13535,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4efb26a9-83d4-442c-a24c-79230bdb2c1f")
-		(property "Reference" "R71"
+		(property "Reference" "R53"
 			(at 90.678 224.536 90)
 			(effects
 				(font
@@ -13004,7 +13587,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R71")
+					(reference "R53")
 					(unit 1)
 				)
 			)
@@ -13019,7 +13602,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "50257156-ac03-4d0b-8827-00c2502738dd")
-		(property "Reference" "R120"
+		(property "Reference" "R102"
 			(at 300.99 39.3699 0)
 			(effects
 				(font
@@ -13073,7 +13656,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R120")
+					(reference "R102")
 					(unit 1)
 				)
 			)
@@ -13089,7 +13672,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "508253c8-0631-44ff-8e1c-ad5e66397a94")
-		(property "Reference" "TP44"
+		(property "Reference" "TP42"
 			(at 220.98 42.4179 0)
 			(effects
 				(font
@@ -13141,7 +13724,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP44")
+					(reference "TP42")
 					(unit 1)
 				)
 			)
@@ -13156,7 +13739,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "522ec474-0cea-47da-8c80-447fccad3dde")
-		(property "Reference" "R88"
+		(property "Reference" "R66"
 			(at 162.306 177.292 90)
 			(effects
 				(font
@@ -13208,7 +13791,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R88")
+					(reference "R66")
 					(unit 1)
 				)
 			)
@@ -13224,7 +13807,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52924029-45fc-46ea-9a9a-31b21e4363d0")
-		(property "Reference" "TP49"
+		(property "Reference" "TP47"
 			(at 229.87 111.2519 0)
 			(effects
 				(font
@@ -13276,7 +13859,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP49")
+					(reference "TP47")
 					(unit 1)
 				)
 			)
@@ -13292,7 +13875,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53cd1d39-dfc7-4e71-95a7-0d5f88b6005b")
-		(property "Reference" "#PWR0130"
+		(property "Reference" "#PWR0122"
 			(at 356.87 125.73 0)
 			(effects
 				(font
@@ -13343,7 +13926,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0130")
+					(reference "#PWR0122")
 					(unit 1)
 				)
 			)
@@ -13425,7 +14008,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "545389ad-4128-4ed4-8b12-b64b0d58d451")
-		(property "Reference" "R76"
+		(property "Reference" "R62"
 			(at 158.496 62.992 90)
 			(effects
 				(font
@@ -13477,7 +14060,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R76")
+					(reference "R62")
 					(unit 1)
 				)
 			)
@@ -13560,7 +14143,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "554efc8b-5d05-4eb0-a4e2-28ac3c7ecdbf")
-		(property "Reference" "TP33"
+		(property "Reference" "TP25"
 			(at 133.35 203.7079 0)
 			(effects
 				(font
@@ -13612,7 +14195,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP33")
+					(reference "TP25")
 					(unit 1)
 				)
 			)
@@ -13628,7 +14211,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "567b8fec-563b-4285-a413-4f9cb94089a3")
-		(property "Reference" "Q6"
+		(property "Reference" "Q5"
 			(at 271.78 50.7999 0)
 			(effects
 				(font
@@ -13694,7 +14277,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "Q6")
+					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -13709,7 +14292,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "56d2c894-b4f6-45d6-9617-a8f794e3eed1")
-		(property "Reference" "R63"
+		(property "Reference" "R37"
 			(at 33.02 207.0099 0)
 			(effects
 				(font
@@ -13763,7 +14346,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R63")
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -13847,7 +14430,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "581febb6-6db2-4784-9bdf-ce151d0943c3")
-		(property "Reference" "TP35"
+		(property "Reference" "TP29"
 			(at 142.24 226.8219 0)
 			(effects
 				(font
@@ -13899,7 +14482,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP35")
+					(reference "TP29")
 					(unit 1)
 				)
 			)
@@ -13997,7 +14580,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5abbfc21-483f-420b-bfe4-f178da1edb49")
-		(property "Reference" "TP42"
+		(property "Reference" "TP44"
 			(at 222.25 156.7179 0)
 			(effects
 				(font
@@ -14049,7 +14632,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP42")
+					(reference "TP44")
 					(unit 1)
 				)
 			)
@@ -14057,7 +14640,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 180.34 234.95 0)
+		(at 180.34 232.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14065,8 +14648,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b19e834-7de8-46dc-a74b-2d308d9ebb38")
-		(property "Reference" "#PWR0100"
-			(at 180.34 241.3 0)
+		(property "Reference" "#PWR092"
+			(at 180.34 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14075,7 +14658,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 180.34 240.03 0)
+			(at 180.34 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14084,7 +14667,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 180.34 234.95 0)
+			(at 180.34 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14093,7 +14676,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 180.34 234.95 0)
+			(at 180.34 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14102,7 +14685,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 180.34 234.95 0)
+			(at 180.34 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14116,7 +14699,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0100")
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -14131,7 +14714,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5b3c68d7-bc5a-4c29-b99f-44624cc8d150")
-		(property "Reference" "TP6"
+		(property "Reference" "TP14"
 			(at 94.996 38.1 0)
 			(effects
 				(font
@@ -14183,7 +14766,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP6")
+					(reference "TP14")
 					(unit 1)
 				)
 			)
@@ -14199,7 +14782,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d23965d-d437-4477-9b7a-55ebc989317e")
-		(property "Reference" "#PWR0125"
+		(property "Reference" "#PWR0117"
 			(at 345.44 63.5 0)
 			(effects
 				(font
@@ -14250,7 +14833,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0125")
+					(reference "#PWR0117")
 					(unit 1)
 				)
 			)
@@ -14332,7 +14915,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5eb85f66-3c0e-4bf6-a628-15ef26839bb1")
-		(property "Reference" "R126"
+		(property "Reference" "R108"
 			(at 302.26 198.1199 0)
 			(effects
 				(font
@@ -14386,7 +14969,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R126")
+					(reference "R108")
 					(unit 1)
 				)
 			)
@@ -14402,7 +14985,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60fde21f-e9e9-462c-8fe4-008118033575")
-		(property "Reference" "Q5"
+		(property "Reference" "Q6"
 			(at 273.05 210.8199 0)
 			(effects
 				(font
@@ -14468,7 +15051,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "Q5")
+					(reference "Q6")
 					(unit 2)
 				)
 			)
@@ -14483,7 +15066,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "615f5b71-b7c4-429b-8f58-9f77ed696782")
-		(property "Reference" "R122"
+		(property "Reference" "R104"
 			(at 300.99 85.0899 0)
 			(effects
 				(font
@@ -14537,7 +15120,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R122")
+					(reference "R104")
 					(unit 1)
 				)
 			)
@@ -14552,7 +15135,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6274acdd-9734-4979-882f-42fc70bb86d4")
-		(property "Reference" "TP26"
+		(property "Reference" "TP30"
 			(at 168.91 47.752 0)
 			(effects
 				(font
@@ -14604,7 +15187,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP26")
+					(reference "TP30")
 					(unit 1)
 				)
 			)
@@ -14619,7 +15202,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "632f6569-a14d-43c1-9649-2fc765c32fdd")
-		(property "Reference" "TP16"
+		(property "Reference" "TP12"
 			(at 81.28 156.972 0)
 			(effects
 				(font
@@ -14671,7 +15254,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP16")
+					(reference "TP12")
 					(unit 1)
 				)
 			)
@@ -14686,7 +15269,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "639a1ecf-254c-486c-9680-1b43b8827884")
-		(property "Reference" "U16"
+		(property "Reference" "U9"
 			(at 49.53 87.122 0)
 			(effects
 				(font
@@ -14765,7 +15348,7 @@
 		(instances
 			(project ""
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U16")
+					(reference "U9")
 					(unit 2)
 				)
 			)
@@ -14780,7 +15363,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "64331b9f-9b33-411a-9731-e026751fadf0")
-		(property "Reference" "R52"
+		(property "Reference" "R50"
 			(at 90.678 67.056 90)
 			(effects
 				(font
@@ -14832,7 +15415,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R52")
+					(reference "R50")
 					(unit 1)
 				)
 			)
@@ -14848,7 +15431,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "652f1983-d33b-4d05-bc82-e5be4789f978")
-		(property "Reference" "U16"
+		(property "Reference" "U9"
 			(at 54.61 38.1 0)
 			(effects
 				(font
@@ -14927,7 +15510,7 @@
 		(instances
 			(project ""
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U16")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -14943,7 +15526,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65e6a7e2-8f28-4ab9-8a39-d95c7d4de9cd")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR094"
 			(at 209.55 109.22 0)
 			(effects
 				(font
@@ -14993,7 +15576,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0104")
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -15009,7 +15592,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6694eece-c052-42db-bb85-76e7a1bc1b14")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR073"
 			(at 88.9 77.47 0)
 			(effects
 				(font
@@ -15060,7 +15643,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR071")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -15076,7 +15659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67ba725c-534b-46d6-b968-7e2c6c01438e")
-		(property "Reference" "TP25"
+		(property "Reference" "TP27"
 			(at 138.43 112.5219 0)
 			(effects
 				(font
@@ -15128,7 +15711,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP25")
+					(reference "TP27")
 					(unit 1)
 				)
 			)
@@ -15211,7 +15794,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "688e8c8b-1222-4ae1-a72e-0efbec187c7f")
-		(property "Reference" "R62"
+		(property "Reference" "R36"
 			(at 33.02 195.5799 0)
 			(effects
 				(font
@@ -15265,7 +15848,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R62")
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -15281,7 +15864,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68bbbddc-23c2-4d57-bcb6-8e148a1eb6b8")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR075"
 			(at 88.9 189.23 0)
 			(effects
 				(font
@@ -15332,7 +15915,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR083")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -15346,10 +15929,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "68be6e6b-bc59-4460-87a6-36691f2fd263")
-		(property "Reference" "Q6"
-			(at 271.78 96.5199 0)
+		(property "Reference" "Q5"
+			(at 270.764 93.472 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15358,7 +15940,7 @@
 			)
 		)
 		(property "Value" "PMGD780SN"
-			(at 271.78 99.0599 0)
+			(at 271.526 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15414,7 +15996,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "Q6")
+					(reference "Q5")
 					(unit 2)
 				)
 			)
@@ -15430,7 +16012,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "69afd47d-8e91-4faa-b773-3b37e11ee370")
-		(property "Reference" "#PWR097"
+		(property "Reference" "#PWR087"
 			(at 168.91 179.07 0)
 			(effects
 				(font
@@ -15481,7 +16063,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR097")
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -15497,7 +16079,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a2b685a-6320-4b4f-a615-9f7c1afc09dd")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR082"
 			(at 142.24 107.95 0)
 			(effects
 				(font
@@ -15548,7 +16130,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR088")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -15563,7 +16145,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6a8619b6-37ed-4642-97c7-fea17b42cb85")
-		(property "Reference" "R107"
+		(property "Reference" "R87"
 			(at 249.936 107.442 90)
 			(effects
 				(font
@@ -15615,7 +16197,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R107")
+					(reference "R87")
 					(unit 1)
 				)
 			)
@@ -15630,7 +16212,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6afcb6fe-4148-434d-ae30-52e1bc23964b")
-		(property "Reference" "R84"
+		(property "Reference" "R58"
 			(at 124.46 154.9399 0)
 			(effects
 				(font
@@ -15684,7 +16266,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R84")
+					(reference "R58")
 					(unit 1)
 				)
 			)
@@ -15700,7 +16282,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b5176d9-2737-422d-8dc3-6b4ae602a96a")
-		(property "Reference" "U17"
+		(property "Reference" "U10"
 			(at 54.61 149.86 0)
 			(effects
 				(font
@@ -15779,7 +16361,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U17")
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -15794,7 +16376,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "6b982049-1ee9-472a-80be-632e2d8a319e")
-		(property "Reference" "R113"
+		(property "Reference" "R97"
 			(at 255.524 214.63 90)
 			(effects
 				(font
@@ -15846,7 +16428,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R113")
+					(reference "R97")
 					(unit 1)
 				)
 			)
@@ -15861,7 +16443,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6b9f83d5-1c5c-4973-9b97-87e4246a70cf")
-		(property "Reference" "R79"
+		(property "Reference" "R65"
 			(at 160.02 98.806 90)
 			(effects
 				(font
@@ -15913,7 +16495,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R79")
+					(reference "R65")
 					(unit 1)
 				)
 			)
@@ -15929,7 +16511,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c553ef7-09ae-4871-a60d-ee92ffd61777")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR081"
 			(at 142.24 95.25 0)
 			(effects
 				(font
@@ -15979,7 +16561,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR087")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -15994,7 +16576,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6d252d63-b462-4f25-acb7-22eaf1d9a3fc")
-		(property "Reference" "R132"
+		(property "Reference" "R114"
 			(at 340.106 174.752 90)
 			(effects
 				(font
@@ -16046,7 +16628,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R132")
+					(reference "R114")
 					(unit 1)
 				)
 			)
@@ -16062,7 +16644,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6e20cd48-dcfd-4772-8b55-b2f91af1e415")
-		(property "Reference" "U21"
+		(property "Reference" "U13"
 			(at 233.68 39.37 0)
 			(effects
 				(font
@@ -16141,7 +16723,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U21")
+					(reference "U13")
 					(unit 1)
 				)
 			)
@@ -16157,7 +16739,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7042ea96-1f69-46f8-9e92-022a34f4bd93")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR093"
 			(at 209.55 63.5 0)
 			(effects
 				(font
@@ -16207,7 +16789,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0103")
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -16223,7 +16805,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "728c00d2-1bcd-4b65-9077-5b56ae60594d")
-		(property "Reference" "#PWR0117"
+		(property "Reference" "#PWR0109"
 			(at 298.45 63.5 0)
 			(effects
 				(font
@@ -16273,7 +16855,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0117")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -16288,7 +16870,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "72ad120f-24bc-4adc-aa16-d296dc22512c")
-		(property "Reference" "R68"
+		(property "Reference" "R48"
 			(at 75.184 165.1 90)
 			(effects
 				(font
@@ -16340,7 +16922,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R68")
+					(reference "R48")
 					(unit 1)
 				)
 			)
@@ -16356,7 +16938,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "748b3358-d929-45a1-9dc4-2722279ce85e")
-		(property "Reference" "#PWR0131"
+		(property "Reference" "#PWR0123"
 			(at 358.14 191.77 0)
 			(effects
 				(font
@@ -16407,7 +16989,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0131")
+					(reference "#PWR0123")
 					(unit 1)
 				)
 			)
@@ -16423,7 +17005,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74e5328c-94a4-4ace-8330-44d7fd5cddab")
-		(property "Reference" "#PWR0120"
+		(property "Reference" "#PWR0112"
 			(at 299.72 222.25 0)
 			(effects
 				(font
@@ -16473,7 +17055,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0120")
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -16489,7 +17071,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "758ed53f-ef31-4d43-9996-f0a071018b47")
-		(property "Reference" "Q5"
+		(property "Reference" "Q6"
 			(at 273.05 165.0999 0)
 			(effects
 				(font
@@ -16555,7 +17137,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "Q5")
+					(reference "Q6")
 					(unit 1)
 				)
 			)
@@ -16571,7 +17153,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "763a2fac-a573-4a36-837d-55b2c7e10c79")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR078"
 			(at 118.11 110.49 0)
 			(effects
 				(font
@@ -16621,7 +17203,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR086")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -16636,7 +17218,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "769c752b-8726-409e-bbd9-6cccc0eed910")
-		(property "Reference" "TP52"
+		(property "Reference" "TP50"
 			(at 260.35 46.482 0)
 			(effects
 				(font
@@ -16688,7 +17270,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP52")
+					(reference "TP50")
 					(unit 1)
 				)
 			)
@@ -16703,7 +17285,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "76c630e9-847a-4e5d-9e64-e48b4350b3cc")
-		(property "Reference" "R91"
+		(property "Reference" "R69"
 			(at 163.83 213.106 90)
 			(effects
 				(font
@@ -16755,7 +17337,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R91")
+					(reference "R69")
 					(unit 1)
 				)
 			)
@@ -16770,7 +17352,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "772ac68b-d28c-42ba-8796-b66a66af61c3")
-		(property "Reference" "R102"
+		(property "Reference" "R80"
 			(at 212.09 85.0899 0)
 			(effects
 				(font
@@ -16824,7 +17406,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R102")
+					(reference "R80")
 					(unit 1)
 				)
 			)
@@ -16832,15 +17414,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 356.87 109.22 270)
+		(at 360.68 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "7791755b-5a0b-4ef4-9e88-40313047ea31")
-		(property "Reference" "TP77"
-			(at 361.95 108.966 90)
+		(property "Reference" "TP80"
+			(at 360.426 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16849,7 +17431,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 361.95 110.4899 90)
+			(at 361.9499 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16859,7 +17441,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 356.87 114.3 0)
+			(at 365.76 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16868,7 +17450,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 356.87 114.3 0)
+			(at 365.76 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16877,7 +17459,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 356.87 109.22 0)
+			(at 360.68 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16891,7 +17473,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP77")
+					(reference "TP80")
 					(unit 1)
 				)
 			)
@@ -16906,7 +17488,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "77aa11f9-54f9-4ee7-a3ba-146b69f36f7e")
-		(property "Reference" "R140"
+		(property "Reference" "R122"
 			(at 358.648 68.326 90)
 			(effects
 				(font
@@ -16958,7 +17540,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R140")
+					(reference "R122")
 					(unit 1)
 				)
 			)
@@ -16974,7 +17556,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77da699c-dc01-49e9-bcc9-b37a49e2d124")
-		(property "Reference" "#PWR0119"
+		(property "Reference" "#PWR0111"
 			(at 299.72 176.53 0)
 			(effects
 				(font
@@ -17024,7 +17606,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0119")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -17099,6 +17681,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 271.78 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "79383ccf-f15b-4ef5-b8f0-2a568f9963b5")
+		(property "Reference" "TP59"
+			(at 271.526 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 273.0499 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 276.86 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 276.86 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 271.78 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bf99cb44-304d-4229-932c-7eb7fab52107")
+		)
+		(instances
+			(project "msp_dj_chip"
+				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
+					(reference "TP59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Project_Symbols:2N-Channel_MOSFET")
 		(at 87.63 96.52 0)
 		(unit 2)
@@ -17106,10 +17755,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "795d9b45-589d-4e7f-bcc1-852830fca110")
-		(property "Reference" "Q2"
-			(at 92.71 95.2499 0)
+		(property "Reference" "Q1"
+			(at 91.948 92.964 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17118,7 +17766,7 @@
 			)
 		)
 		(property "Value" "PMGD780SN"
-			(at 92.71 97.7899 0)
+			(at 91.694 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17174,7 +17822,7 @@
 		(instances
 			(project ""
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "Q2")
+					(reference "Q1")
 					(unit 2)
 				)
 			)
@@ -17189,7 +17837,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7a1bacbe-d7c1-4455-82e5-93ea840b8022")
-		(property "Reference" "TP30"
+		(property "Reference" "TP35"
 			(at 182.626 86.36 0)
 			(effects
 				(font
@@ -17241,7 +17889,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP30")
+					(reference "TP35")
 					(unit 1)
 				)
 			)
@@ -17257,7 +17905,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ad5114c-da5e-4c2f-be5c-81296b5bc631")
-		(property "Reference" "Q2"
+		(property "Reference" "Q1"
 			(at 92.71 49.5299 0)
 			(effects
 				(font
@@ -17323,7 +17971,7 @@
 		(instances
 			(project ""
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "Q2")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -17339,7 +17987,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b4d3b30-6b66-4e82-b1fb-e802014c25e9")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR070"
 			(at 77.47 107.95 0)
 			(effects
 				(font
@@ -17390,7 +18038,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR075")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -17472,7 +18120,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "7d196943-b1bd-438d-b730-640ed54dee12")
-		(property "Reference" "R51"
+		(property "Reference" "R46"
 			(at 75.184 53.34 90)
 			(effects
 				(font
@@ -17524,7 +18172,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R51")
+					(reference "R46")
 					(unit 1)
 				)
 			)
@@ -17539,7 +18187,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7d5f8760-feab-433d-84e4-cdf24ce59e4b")
-		(property "Reference" "R142"
+		(property "Reference" "R124"
 			(at 359.918 181.356 90)
 			(effects
 				(font
@@ -17591,7 +18239,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R142")
+					(reference "R124")
 					(unit 1)
 				)
 			)
@@ -17607,7 +18255,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e6604e3-19d5-43be-9bec-2b6c3861c692")
-		(property "Reference" "#PWR0126"
+		(property "Reference" "#PWR0118"
 			(at 345.44 109.22 0)
 			(effects
 				(font
@@ -17658,7 +18306,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0126")
+					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
@@ -17674,7 +18322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "817760ec-53ec-4bd9-ba26-8692ba1a0dfb")
-		(property "Reference" "Q1"
+		(property "Reference" "Q2"
 			(at 92.71 161.2899 0)
 			(effects
 				(font
@@ -17740,7 +18388,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "Q1")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -17755,7 +18403,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "841c28da-e25b-401c-a4b8-13fb452cc9f5")
-		(property "Reference" "R112"
+		(property "Reference" "R96"
 			(at 255.524 168.91 90)
 			(effects
 				(font
@@ -17807,7 +18455,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R112")
+					(reference "R96")
 					(unit 1)
 				)
 			)
@@ -17822,7 +18470,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8508feb9-2256-4d1e-904a-10802edb583d")
-		(property "Reference" "R87"
+		(property "Reference" "R61"
 			(at 124.46 212.0899 0)
 			(effects
 				(font
@@ -17876,7 +18524,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R87")
+					(reference "R61")
 					(unit 1)
 				)
 			)
@@ -17884,15 +18532,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 180.34 179.07 270)
+		(at 182.88 179.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "850b2140-954f-4906-bb92-cf150ef624d6")
-		(property "Reference" "TP39"
-			(at 185.42 178.816 90)
+		(property "Reference" "TP40"
+			(at 182.626 173.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17901,7 +18549,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 185.42 180.3399 90)
+			(at 184.1499 173.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17911,7 +18559,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 180.34 184.15 0)
+			(at 187.96 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17920,7 +18568,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 180.34 184.15 0)
+			(at 187.96 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17929,7 +18577,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 180.34 179.07 0)
+			(at 182.88 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17943,7 +18591,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP39")
+					(reference "TP40")
 					(unit 1)
 				)
 			)
@@ -17958,7 +18606,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "85561d75-5d75-4cc4-b748-14c9e2d4c934")
-		(property "Reference" "R82"
+		(property "Reference" "R74"
 			(at 178.308 69.596 90)
 			(effects
 				(font
@@ -18010,7 +18658,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R82")
+					(reference "R74")
 					(unit 1)
 				)
 			)
@@ -18094,7 +18742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "864eb5b5-cafc-48cf-a20c-63f095de81b0")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR071"
 			(at 77.47 173.99 0)
 			(effects
 				(font
@@ -18145,7 +18793,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR081")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -18160,7 +18808,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8687c509-d430-428c-8797-5d81c934c72b")
-		(property "Reference" "R116"
+		(property "Reference" "R100"
 			(at 271.018 182.626 90)
 			(effects
 				(font
@@ -18212,7 +18860,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R116")
+					(reference "R100")
 					(unit 1)
 				)
 			)
@@ -18227,7 +18875,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "882e3a28-a67e-4081-81de-766777ea9d72")
-		(property "Reference" "R50"
+		(property "Reference" "R38"
 			(at 70.866 60.452 90)
 			(effects
 				(font
@@ -18279,7 +18927,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R50")
+					(reference "R38")
 					(unit 1)
 				)
 			)
@@ -18294,7 +18942,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8a82aab8-1298-4eb8-bd5f-f7db40049f5b")
-		(property "Reference" "TP76"
+		(property "Reference" "TP75"
 			(at 362.966 85.09 0)
 			(effects
 				(font
@@ -18346,7 +18994,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP76")
+					(reference "TP75")
 					(unit 1)
 				)
 			)
@@ -18362,7 +19010,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8afbfc89-ff2f-479d-82a7-df0aacc6961d")
-		(property "Reference" "#PWR0112"
+		(property "Reference" "#PWR0102"
 			(at 256.54 109.22 0)
 			(effects
 				(font
@@ -18413,7 +19061,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0112")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -18496,7 +19144,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c13d03f-1692-4f62-aea6-f3a1dea18611")
-		(property "Reference" "#PWR0118"
+		(property "Reference" "#PWR0110"
 			(at 298.45 109.22 0)
 			(effects
 				(font
@@ -18546,7 +19194,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0118")
+					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -18562,7 +19210,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e25ded6-6f20-422b-8ab9-cfe8c01cbccd")
-		(property "Reference" "#PWR098"
+		(property "Reference" "#PWR088"
 			(at 168.91 224.79 0)
 			(effects
 				(font
@@ -18613,7 +19261,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR098")
+					(reference "#PWR088")
 					(unit 1)
 				)
 			)
@@ -18628,7 +19276,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8f1db7bb-7e02-4271-84a4-04ff83c2c130")
-		(property "Reference" "R131"
+		(property "Reference" "R113"
 			(at 340.36 97.536 90)
 			(effects
 				(font
@@ -18680,7 +19328,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R131")
+					(reference "R113")
 					(unit 1)
 				)
 			)
@@ -18696,7 +19344,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9151571d-77ed-493d-bc52-92fc685c809e")
-		(property "Reference" "U22"
+		(property "Reference" "U15"
 			(at 322.58 39.37 0)
 			(effects
 				(font
@@ -18775,7 +19423,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U22")
+					(reference "U15")
 					(unit 1)
 				)
 			)
@@ -18790,7 +19438,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "91f7d321-3110-4702-813e-fcf6a7a05988")
-		(property "Reference" "R117"
+		(property "Reference" "R101"
 			(at 271.018 228.346 90)
 			(effects
 				(font
@@ -18842,7 +19490,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R117")
+					(reference "R101")
 					(unit 1)
 				)
 			)
@@ -18857,7 +19505,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "92056ded-ca4b-48b3-a96a-239e9ef77175")
-		(property "Reference" "R67"
+		(property "Reference" "R45"
 			(at 72.39 208.026 90)
 			(effects
 				(font
@@ -18909,7 +19557,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R67")
+					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -18992,7 +19640,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "967875ce-6178-48b2-ac3c-cc1ff2edb08c")
-		(property "Reference" "TP40"
+		(property "Reference" "TP37"
 			(at 186.436 200.66 0)
 			(effects
 				(font
@@ -19044,7 +19692,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP40")
+					(reference "TP37")
 					(unit 1)
 				)
 			)
@@ -19059,7 +19707,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "97123c24-4377-446b-8ffb-49052b5a4cc7")
-		(property "Reference" "R111"
+		(property "Reference" "R89"
 			(at 251.46 97.536 90)
 			(effects
 				(font
@@ -19111,7 +19759,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R111")
+					(reference "R89")
 					(unit 1)
 				)
 			)
@@ -19126,7 +19774,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9794a8ae-7da4-4dab-8712-4c7822480c18")
-		(property "Reference" "R53"
+		(property "Reference" "R42"
 			(at 72.39 50.546 90)
 			(effects
 				(font
@@ -19178,7 +19826,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R53")
+					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -19193,7 +19841,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "992a7930-e655-4703-8ee7-5e7af2b347f5")
-		(property "Reference" "U20"
+		(property "Reference" "U14"
 			(at 229.87 202.692 0)
 			(effects
 				(font
@@ -19272,7 +19920,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U20")
+					(reference "U14")
 					(unit 2)
 				)
 			)
@@ -19280,15 +19928,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 358.14 176.53 270)
+		(at 360.68 176.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "998783fa-cdd5-46f8-8acb-8b0057a12b8c")
-		(property "Reference" "TP79"
-			(at 363.22 176.276 90)
+		(property "Reference" "TP81"
+			(at 360.426 171.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19297,7 +19945,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 363.22 177.7999 90)
+			(at 361.9499 171.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19307,7 +19955,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 358.14 181.61 0)
+			(at 365.76 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19316,7 +19964,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 358.14 181.61 0)
+			(at 365.76 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19325,7 +19973,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 358.14 176.53 0)
+			(at 360.68 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19339,7 +19987,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP79")
+					(reference "TP81")
 					(unit 1)
 				)
 			)
@@ -19422,7 +20070,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9d19ad5c-6056-4082-9516-27ea639655aa")
-		(property "Reference" "R94"
+		(property "Reference" "R76"
 			(at 182.118 183.896 90)
 			(effects
 				(font
@@ -19474,7 +20122,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R94")
+					(reference "R76")
 					(unit 1)
 				)
 			)
@@ -19488,10 +20136,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9d2b54ec-13a2-461b-afc9-a6f6d32adc03")
 		(property "Reference" "Q3"
-			(at 180.34 52.0699 0)
+			(at 179.324 49.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19500,7 +20147,7 @@
 			)
 		)
 		(property "Value" "PMGD780SN"
-			(at 180.34 54.6099 0)
+			(at 179.07 51.308 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19572,7 +20219,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d941a33-9b08-40d9-b9fd-c1f6702573da")
-		(property "Reference" "TP32"
+		(property "Reference" "TP24"
 			(at 133.35 157.9879 0)
 			(effects
 				(font
@@ -19624,7 +20271,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP32")
+					(reference "TP24")
 					(unit 1)
 				)
 			)
@@ -19632,15 +20279,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 269.24 223.52 270)
+		(at 273.05 223.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "9d9cd20d-a046-4e61-9004-6594ef269f6f")
-		(property "Reference" "TP57"
-			(at 274.32 223.266 90)
+		(property "Reference" "TP61"
+			(at 272.796 218.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19649,7 +20296,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 274.32 224.7899 90)
+			(at 274.3199 218.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19659,7 +20306,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 269.24 228.6 0)
+			(at 278.13 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19668,7 +20315,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 269.24 228.6 0)
+			(at 278.13 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19677,7 +20324,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 269.24 223.52 0)
+			(at 273.05 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19691,7 +20338,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP57")
+					(reference "TP61")
 					(unit 1)
 				)
 			)
@@ -19706,7 +20353,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9e4a1d8d-824a-43ed-bd42-a00fafa1c823")
-		(property "Reference" "R118"
+		(property "Reference" "R98"
 			(at 269.748 68.326 90)
 			(effects
 				(font
@@ -19758,7 +20405,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R118")
+					(reference "R98")
 					(unit 1)
 				)
 			)
@@ -19774,7 +20421,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f5b6bfd-08cb-4421-9bfd-dd2142741f4a")
-		(property "Reference" "#PWR0132"
+		(property "Reference" "#PWR0124"
 			(at 358.14 238.76 0)
 			(effects
 				(font
@@ -19825,7 +20472,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0132")
+					(reference "#PWR0124")
 					(unit 1)
 				)
 			)
@@ -19841,7 +20488,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0355fcb-6d20-4bf8-a2e0-4ebd1b590a0e")
-		(property "Reference" "#PWR0113"
+		(property "Reference" "#PWR0107"
 			(at 269.24 193.04 0)
 			(effects
 				(font
@@ -19892,7 +20539,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0113")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -19907,7 +20554,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a151c750-ca2b-4c74-b0ad-5728ef4f824e")
-		(property "Reference" "R110"
+		(property "Reference" "R88"
 			(at 251.46 51.816 90)
 			(effects
 				(font
@@ -19959,7 +20606,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R110")
+					(reference "R88")
 					(unit 1)
 				)
 			)
@@ -19974,7 +20621,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a22c164b-8fa7-4f33-95a7-0cd23d5da3a5")
-		(property "Reference" "R54"
+		(property "Reference" "R32"
 			(at 33.02 83.8199 0)
 			(effects
 				(font
@@ -20028,7 +20675,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R54")
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -20044,7 +20691,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a428341c-ee3f-4f7c-924d-48e863a1399b")
-		(property "Reference" "Q1"
+		(property "Reference" "Q2"
 			(at 92.71 207.0099 0)
 			(effects
 				(font
@@ -20110,7 +20757,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "Q1")
+					(reference "Q2")
 					(unit 2)
 				)
 			)
@@ -20126,7 +20773,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a47d8a37-31a8-417d-b7f4-d58699aa032e")
-		(property "Reference" "U20"
+		(property "Reference" "U14"
 			(at 234.95 153.67 0)
 			(effects
 				(font
@@ -20205,7 +20852,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U20")
+					(reference "U14")
 					(unit 1)
 				)
 			)
@@ -20280,15 +20927,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 180.34 229.87 180)
+		(at 180.34 228.6 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "a677dfc1-a6f7-4d2c-901e-31f5022c00ea")
-		(property "Reference" "R95"
-			(at 182.118 229.616 90)
+		(property "Reference" "R77"
+			(at 182.118 228.346 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -20296,7 +20943,7 @@
 			)
 		)
 		(property "Value" "1"
-			(at 180.34 229.87 90)
+			(at 180.34 228.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20304,7 +20951,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 180.34 229.87 0)
+			(at 180.34 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20313,7 +20960,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 180.34 229.87 0)
+			(at 180.34 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20322,7 +20969,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 180.34 229.87 0)
+			(at 180.34 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20339,7 +20986,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R95")
+					(reference "R77")
 					(unit 1)
 				)
 			)
@@ -20354,7 +21001,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a6b50f82-bcc6-4b41-8df7-c1f2fec31cc3")
-		(property "Reference" "R103"
+		(property "Reference" "R81"
 			(at 212.09 96.5199 0)
 			(effects
 				(font
@@ -20408,7 +21055,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R103")
+					(reference "R81")
 					(unit 1)
 				)
 			)
@@ -20423,7 +21070,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a71a5847-f1d3-4ed2-99f3-1554a835ef40")
-		(property "Reference" "R74"
+		(property "Reference" "R56"
 			(at 120.65 86.3599 0)
 			(effects
 				(font
@@ -20477,7 +21124,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R74")
+					(reference "R56")
 					(unit 1)
 				)
 			)
@@ -20493,7 +21140,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9b6eb51-0ec1-4510-97dd-8107692ce564")
-		(property "Reference" "TP7"
+		(property "Reference" "TP3"
 			(at 41.91 86.8679 0)
 			(effects
 				(font
@@ -20545,7 +21192,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP7")
+					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -20560,7 +21207,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aab906dd-c4a4-4caa-86ff-735e07e99be6")
-		(property "Reference" "TP36"
+		(property "Reference" "TP32"
 			(at 172.72 162.052 0)
 			(effects
 				(font
@@ -20612,7 +21259,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP36")
+					(reference "TP32")
 					(unit 1)
 				)
 			)
@@ -20761,7 +21408,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ab753214-7272-4d80-874c-71670fa23d04")
-		(property "Reference" "R143"
+		(property "Reference" "R125"
 			(at 359.918 227.076 90)
 			(effects
 				(font
@@ -20813,7 +21460,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R143")
+					(reference "R125")
 					(unit 1)
 				)
 			)
@@ -20828,7 +21475,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "ac5c6ca0-19c4-446b-9939-6002c5f3cd85")
-		(property "Reference" "R69"
+		(property "Reference" "R49"
 			(at 75.184 210.82 90)
 			(effects
 				(font
@@ -20880,7 +21527,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R69")
+					(reference "R49")
 					(unit 1)
 				)
 			)
@@ -20895,7 +21542,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "adf5f6c3-1460-4dcc-af03-decd25c58738")
-		(property "Reference" "TP56"
+		(property "Reference" "TP57"
 			(at 275.336 199.39 0)
 			(effects
 				(font
@@ -20947,7 +21594,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP56")
+					(reference "TP57")
 					(unit 1)
 				)
 			)
@@ -20962,7 +21609,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ae3554de-a883-45c7-aca8-615363688628")
-		(property "Reference" "R109"
+		(property "Reference" "R93"
 			(at 252.73 211.836 90)
 			(effects
 				(font
@@ -21014,7 +21661,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R109")
+					(reference "R93")
 					(unit 1)
 				)
 			)
@@ -21030,7 +21677,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afd50907-e584-4cca-969d-fdf3a299bdcd")
-		(property "Reference" "#PWR0109"
+		(property "Reference" "#PWR0103"
 			(at 257.81 177.8 0)
 			(effects
 				(font
@@ -21081,7 +21728,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0109")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -21096,7 +21743,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b015d2ac-2118-4f93-ac48-6f844bd3470c")
-		(property "Reference" "U22"
+		(property "Reference" "U15"
 			(at 317.5 88.392 0)
 			(effects
 				(font
@@ -21175,7 +21822,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U22")
+					(reference "U15")
 					(unit 2)
 				)
 			)
@@ -21191,7 +21838,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0b7e957-0c81-4f51-aa7a-3d3c26409380")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR065"
 			(at 54.61 92.71 0)
 			(effects
 				(font
@@ -21241,7 +21888,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR073")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -21257,7 +21904,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b24f7396-3c49-4451-bd5f-6af6b722ad49")
-		(property "Reference" "#PWR096"
+		(property "Reference" "#PWR084"
 			(at 146.05 222.25 0)
 			(effects
 				(font
@@ -21308,7 +21955,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR096")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -21323,7 +21970,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b2edc54f-a06b-4849-9c59-7c081045c0b8")
-		(property "Reference" "R59"
+		(property "Reference" "R51"
 			(at 90.678 112.776 90)
 			(effects
 				(font
@@ -21375,7 +22022,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R59")
+					(reference "R51")
 					(unit 1)
 				)
 			)
@@ -21390,7 +22037,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b3789fb5-9d36-44a1-86dd-9dc1589b7843")
-		(property "Reference" "TP9"
+		(property "Reference" "TP11"
 			(at 81.28 90.932 0)
 			(effects
 				(font
@@ -21442,7 +22089,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP9")
+					(reference "TP11")
 					(unit 1)
 				)
 			)
@@ -21457,7 +22104,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b3d43cf9-914a-4aab-bc0b-4a73d0e4f089")
-		(property "Reference" "R124"
+		(property "Reference" "R106"
 			(at 302.26 152.3999 0)
 			(effects
 				(font
@@ -21511,7 +22158,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R124")
+					(reference "R106")
 					(unit 1)
 				)
 			)
@@ -21527,7 +22174,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3de956e-f8f5-4665-b03f-f1a6c01b9968")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR072"
 			(at 77.47 219.71 0)
 			(effects
 				(font
@@ -21578,7 +22225,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR082")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -21594,7 +22241,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4062bcb-dd09-46bb-b577-14388a4a83de")
-		(property "Reference" "#PWR093"
+		(property "Reference" "#PWR079"
 			(at 121.92 179.07 0)
 			(effects
 				(font
@@ -21644,7 +22291,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR093")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -21659,7 +22306,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b497a419-b0d9-471e-a104-1204fb5c7f7c")
-		(property "Reference" "R106"
+		(property "Reference" "R86"
 			(at 249.936 61.722 90)
 			(effects
 				(font
@@ -21711,7 +22358,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R106")
+					(reference "R86")
 					(unit 1)
 				)
 			)
@@ -21727,7 +22374,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5c5a130-287b-4a66-bf01-f450a8763954")
-		(property "Reference" "TP3"
+		(property "Reference" "TP6"
 			(at 50.8 64.2619 0)
 			(effects
 				(font
@@ -21779,7 +22426,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP3")
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -21794,7 +22441,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b5fc77a5-cf98-47e6-a828-aa76d35e3de6")
-		(property "Reference" "R121"
+		(property "Reference" "R103"
 			(at 300.99 50.7999 0)
 			(effects
 				(font
@@ -21848,7 +22495,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R121")
+					(reference "R103")
 					(unit 1)
 				)
 			)
@@ -21863,7 +22510,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "b6742978-a249-402d-a638-dadea0f9f6e8")
-		(property "Reference" "C29"
+		(property "Reference" "C27"
 			(at 251.4663 35.56 90)
 			(effects
 				(font
@@ -21915,7 +22562,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "C29")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -21930,7 +22577,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b6efbd96-6ea8-480d-a14e-6dd05ad5575c")
-		(property "Reference" "R128"
+		(property "Reference" "R110"
 			(at 338.836 61.722 90)
 			(effects
 				(font
@@ -21982,7 +22629,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R128")
+					(reference "R110")
 					(unit 1)
 				)
 			)
@@ -21997,7 +22644,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b774f207-2343-4990-ad23-5061712adbb4")
-		(property "Reference" "R49"
+		(property "Reference" "R31"
 			(at 33.02 49.5299 0)
 			(effects
 				(font
@@ -22051,7 +22698,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R49")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -22066,7 +22713,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b918c036-0251-48e1-b3c7-18210406de8c")
-		(property "Reference" "R55"
+		(property "Reference" "R33"
 			(at 33.02 95.2499 0)
 			(effects
 				(font
@@ -22120,7 +22767,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R55")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -22135,7 +22782,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b9c17b77-8e8c-413e-a90b-ffaf5b64f436")
-		(property "Reference" "R89"
+		(property "Reference" "R67"
 			(at 162.306 223.012 90)
 			(effects
 				(font
@@ -22187,7 +22834,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R89")
+					(reference "R67")
 					(unit 1)
 				)
 			)
@@ -22269,7 +22916,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bd4769ff-12af-4adb-9f51-d55689492767")
-		(property "Reference" "R135"
+		(property "Reference" "R117"
 			(at 341.63 210.566 90)
 			(effects
 				(font
@@ -22321,7 +22968,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R135")
+					(reference "R117")
 					(unit 1)
 				)
 			)
@@ -22329,15 +22976,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 269.24 177.8 270)
+		(at 271.78 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "bd5561e0-703b-4f32-a2da-db400b9108bd")
-		(property "Reference" "TP55"
-			(at 274.32 177.546 90)
+		(property "Reference" "TP60"
+			(at 271.526 172.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22346,7 +22993,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 274.32 179.0699 90)
+			(at 273.0499 172.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22356,7 +23003,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 269.24 182.88 0)
+			(at 276.86 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22365,7 +23012,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 269.24 182.88 0)
+			(at 276.86 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22374,7 +23021,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 269.24 177.8 0)
+			(at 271.78 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22388,7 +23035,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP55")
+					(reference "TP60")
 					(unit 1)
 				)
 			)
@@ -22403,7 +23050,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bd72985c-844b-4be8-8619-41d3e10a30de")
-		(property "Reference" "R123"
+		(property "Reference" "R105"
 			(at 300.99 96.5199 0)
 			(effects
 				(font
@@ -22457,7 +23104,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R123")
+					(reference "R105")
 					(unit 1)
 				)
 			)
@@ -22472,7 +23119,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "be655601-85c4-4b7f-84ab-4047b57d34b4")
-		(property "Reference" "C30"
+		(property "Reference" "C28"
 			(at 251.4663 81.28 90)
 			(effects
 				(font
@@ -22524,7 +23171,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "C30")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -22539,7 +23186,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "c37b18aa-609a-44df-b993-41c2e9154837")
-		(property "Reference" "R115"
+		(property "Reference" "R95"
 			(at 254.254 100.33 90)
 			(effects
 				(font
@@ -22591,7 +23238,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R115")
+					(reference "R95")
 					(unit 1)
 				)
 			)
@@ -22599,15 +23246,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 88.9 107.95 270)
+		(at 92.71 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "c42b838c-d754-4ac8-918b-d75853b4c9e6")
-		(property "Reference" "TP11"
-			(at 93.98 107.696 90)
+		(property "Reference" "TP19"
+			(at 92.456 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22616,7 +23263,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 93.98 109.2199 90)
+			(at 93.9799 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22626,7 +23273,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.9 113.03 0)
+			(at 97.79 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22635,7 +23282,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 113.03 0)
+			(at 97.79 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22644,7 +23291,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 88.9 107.95 0)
+			(at 92.71 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22658,7 +23305,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP11")
+					(reference "TP19")
 					(unit 1)
 				)
 			)
@@ -22674,7 +23321,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4eb050c-992c-4aed-85db-0a6585ad1085")
-		(property "Reference" "#PWR099"
+		(property "Reference" "#PWR091"
 			(at 180.34 194.31 0)
 			(effects
 				(font
@@ -22725,7 +23372,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR099")
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -22740,7 +23387,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c783473b-028f-45da-b5d9-caddee9c98ad")
-		(property "Reference" "R119"
+		(property "Reference" "R99"
 			(at 269.748 114.046 90)
 			(effects
 				(font
@@ -22792,7 +23439,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R119")
+					(reference "R99")
 					(unit 1)
 				)
 			)
@@ -22808,7 +23455,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c80309a8-9b00-42f4-8206-bd9c4db7f0fe")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR062"
 			(at 30.48 107.95 0)
 			(effects
 				(font
@@ -22858,7 +23505,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR074")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -22873,7 +23520,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cace6a88-2385-428b-8ff1-3beaf81462c0")
-		(property "Reference" "R70"
+		(property "Reference" "R52"
 			(at 90.678 178.816 90)
 			(effects
 				(font
@@ -22925,7 +23572,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R70")
+					(reference "R52")
 					(unit 1)
 				)
 			)
@@ -22941,7 +23588,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb635b72-fd20-4c62-8311-358e586f631a")
-		(property "Reference" "#PWR0108"
+		(property "Reference" "#PWR098"
 			(at 233.68 106.68 0)
 			(effects
 				(font
@@ -22992,7 +23639,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0108")
+					(reference "#PWR098")
 					(unit 1)
 				)
 			)
@@ -23007,7 +23654,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cda01471-b31c-47d3-8470-3be30b8d7d2a")
-		(property "Reference" "R105"
+		(property "Reference" "R91"
 			(at 251.206 221.742 90)
 			(effects
 				(font
@@ -23059,7 +23706,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R105")
+					(reference "R91")
 					(unit 1)
 				)
 			)
@@ -23075,7 +23722,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cdbefa96-c48a-4898-87b1-e7685a9f969b")
-		(property "Reference" "TP15"
+		(property "Reference" "TP9"
 			(at 50.8 221.7419 0)
 			(effects
 				(font
@@ -23127,7 +23774,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP15")
+					(reference "TP9")
 					(unit 1)
 				)
 			)
@@ -23142,7 +23789,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "ce32c2bd-1263-429d-bb61-f71cfec1c9c3")
-		(property "Reference" "R58"
+		(property "Reference" "R47"
 			(at 75.184 99.06 90)
 			(effects
 				(font
@@ -23194,7 +23841,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R58")
+					(reference "R47")
 					(unit 1)
 				)
 			)
@@ -23210,7 +23857,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0714cec-3caf-45f2-9a87-f535542c4232")
-		(property "Reference" "#PWR0114"
+		(property "Reference" "#PWR0108"
 			(at 269.24 240.03 0)
 			(effects
 				(font
@@ -23261,7 +23908,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0114")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -23335,6 +23982,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 360.68 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d3dbdac3-b548-4def-835c-71ad604d355e")
+		(property "Reference" "TP78"
+			(at 360.426 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 361.9499 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 365.76 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 365.76 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 360.68 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d77f20a7-bf99-41dc-a1fb-082872b57226")
+		)
+		(instances
+			(project "msp_dj_chip"
+				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
+					(reference "TP78")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 345.44 100.33 180)
 		(unit 1)
@@ -23343,7 +24057,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "d43bc8e4-4784-4b93-a57f-71c6526f2339")
-		(property "Reference" "R137"
+		(property "Reference" "R119"
 			(at 343.154 100.33 90)
 			(effects
 				(font
@@ -23395,7 +24109,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R137")
+					(reference "R119")
 					(unit 1)
 				)
 			)
@@ -23410,7 +24124,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d44969b0-bd1e-4564-8374-ea98884ae85c")
-		(property "Reference" "R64"
+		(property "Reference" "R40"
 			(at 70.866 172.212 90)
 			(effects
 				(font
@@ -23462,7 +24176,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R64")
+					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -23477,7 +24191,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d44cec4f-047e-49dd-91a6-44a38ba699a7")
-		(property "Reference" "TP51"
+		(property "Reference" "TP53"
 			(at 261.62 206.502 0)
 			(effects
 				(font
@@ -23529,7 +24243,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP51")
+					(reference "TP53")
 					(unit 1)
 				)
 			)
@@ -23544,7 +24258,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d747db2b-305f-4c1e-83b4-8960c2ed3172")
-		(property "Reference" "R78"
+		(property "Reference" "R64"
 			(at 160.02 53.086 90)
 			(effects
 				(font
@@ -23596,7 +24310,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R78")
+					(reference "R64")
 					(unit 1)
 				)
 			)
@@ -23612,7 +24326,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d76f5604-aad7-41b8-a923-6055f95aa60e")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR067"
 			(at 54.61 204.47 0)
 			(effects
 				(font
@@ -23662,7 +24376,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR079")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -23677,7 +24391,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d7925669-873c-4b14-bfb3-af8ea9e20ac2")
-		(property "Reference" "R133"
+		(property "Reference" "R115"
 			(at 340.106 220.472 90)
 			(effects
 				(font
@@ -23729,7 +24443,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R133")
+					(reference "R115")
 					(unit 1)
 				)
 			)
@@ -23744,7 +24458,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d9434521-55c6-4ca4-ad4d-0dfe79906b60")
-		(property "Reference" "R61"
+		(property "Reference" "R35"
 			(at 33.02 161.2899 0)
 			(effects
 				(font
@@ -23798,7 +24512,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R61")
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -23813,7 +24527,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de5f0ea6-508f-4e49-84c2-a7af112c7825")
-		(property "Reference" "R60"
+		(property "Reference" "R34"
 			(at 33.02 149.8599 0)
 			(effects
 				(font
@@ -23867,7 +24581,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R60")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -23883,7 +24597,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "deeeedee-a82d-4274-a3a1-fee15b9fc6a6")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR064"
 			(at 30.48 219.71 0)
 			(effects
 				(font
@@ -23933,7 +24647,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR078")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -23949,7 +24663,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df7b6e6f-c0af-4dd4-aeea-b15fdc131977")
-		(property "Reference" "TP8"
+		(property "Reference" "TP7"
 			(at 50.8 109.9819 0)
 			(effects
 				(font
@@ -24001,7 +24715,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP8")
+					(reference "TP7")
 					(unit 1)
 				)
 			)
@@ -24009,7 +24723,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 88.9 219.71 270)
+		(at 93.98 219.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24017,7 +24731,7 @@
 		(dnp no)
 		(uuid "e0c652cc-f61d-49d3-bcee-0a6c6602cb88")
 		(property "Reference" "TP21"
-			(at 93.98 219.456 90)
+			(at 93.726 214.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24026,7 +24740,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 93.98 220.9799 90)
+			(at 95.2499 214.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24036,7 +24750,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.9 224.79 0)
+			(at 99.06 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24045,7 +24759,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 224.79 0)
+			(at 99.06 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24054,7 +24768,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 88.9 219.71 0)
+			(at 93.98 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24084,7 +24798,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e112cc1c-6a58-46d5-96ec-e46e27f05b80")
-		(property "Reference" "#PWR094"
+		(property "Reference" "#PWR080"
 			(at 121.92 224.79 0)
 			(effects
 				(font
@@ -24134,7 +24848,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR094")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -24149,7 +24863,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e17c07e4-d125-4df8-aec8-e2a52ffa905b")
-		(property "Reference" "R73"
+		(property "Reference" "R55"
 			(at 120.65 52.0699 0)
 			(effects
 				(font
@@ -24203,7 +24917,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R73")
+					(reference "R55")
 					(unit 1)
 				)
 			)
@@ -24218,7 +24932,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e1b7e4dc-cbd8-4484-ab1a-4da66c6e55d0")
-		(property "Reference" "TP78"
+		(property "Reference" "TP76"
 			(at 364.236 152.4 0)
 			(effects
 				(font
@@ -24270,7 +24984,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP78")
+					(reference "TP76")
 					(unit 1)
 				)
 			)
@@ -24285,7 +24999,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "e2aa6e75-3f78-4403-8e9b-92e56ea8eb02")
-		(property "Reference" "R136"
+		(property "Reference" "R118"
 			(at 343.154 54.61 90)
 			(effects
 				(font
@@ -24337,7 +25051,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R136")
+					(reference "R118")
 					(unit 1)
 				)
 			)
@@ -24353,7 +25067,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2ad9665-b199-48cf-869d-abd4524844dd")
-		(property "Reference" "#PWR0121"
+		(property "Reference" "#PWR0113"
 			(at 322.58 93.98 0)
 			(effects
 				(font
@@ -24403,7 +25117,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0121")
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -24418,7 +25132,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "e3f7bdce-2635-4bbc-b74d-c76adc0defdb")
-		(property "Reference" "C28"
+		(property "Reference" "C30"
 			(at 252.7363 195.58 90)
 			(effects
 				(font
@@ -24470,7 +25184,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "C28")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -24485,7 +25199,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e4d73fa5-a5a5-4d6a-b276-1231e07526ae")
-		(property "Reference" "R77"
+		(property "Reference" "R63"
 			(at 158.496 108.712 90)
 			(effects
 				(font
@@ -24537,7 +25251,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R77")
+					(reference "R63")
 					(unit 1)
 				)
 			)
@@ -24553,7 +25267,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4db6751-bb5a-48ca-bc82-b08700f3265a")
-		(property "Reference" "TP13"
+		(property "Reference" "TP5"
 			(at 41.91 198.6279 0)
 			(effects
 				(font
@@ -24605,7 +25319,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP13")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -24702,7 +25416,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e7a3d87b-8647-40c5-afcc-37941cde12a1")
-		(property "Reference" "R98"
+		(property "Reference" "R84"
 			(at 213.36 199.3899 0)
 			(effects
 				(font
@@ -24756,7 +25470,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R98")
+					(reference "R84")
 					(unit 1)
 				)
 			)
@@ -24771,7 +25485,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e839d00d-f4b2-4cb1-aa19-fc0a1b95d811")
-		(property "Reference" "R141"
+		(property "Reference" "R123"
 			(at 358.648 114.046 90)
 			(effects
 				(font
@@ -24823,7 +25537,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R141")
+					(reference "R123")
 					(unit 1)
 				)
 			)
@@ -24839,7 +25553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8dff4b1-77d1-4162-8d67-a84ddd592147")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR061"
 			(at 30.48 62.23 0)
 			(effects
 				(font
@@ -24889,7 +25603,7 @@
 		(instances
 			(project ""
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR069")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -24905,7 +25619,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9662e69-f888-4564-a5ee-8291bd97d21a")
-		(property "Reference" "U18"
+		(property "Reference" "U11"
 			(at 142.24 40.64 0)
 			(effects
 				(font
@@ -24984,7 +25698,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "U18")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -25000,7 +25714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9a64c86-1362-42e4-aa93-3dcd2a93d2a1")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR095"
 			(at 210.82 177.8 0)
 			(effects
 				(font
@@ -25050,7 +25764,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0101")
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -25058,15 +25772,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 176.53 110.49 270)
+		(at 181.61 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "e9cbfea3-a8fa-4173-8c67-d0a280c101ff")
-		(property "Reference" "TP31"
-			(at 181.61 110.236 90)
+		(property "Reference" "TP39"
+			(at 181.356 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25075,7 +25789,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 181.61 111.7599 90)
+			(at 182.8799 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25085,7 +25799,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 115.57 0)
+			(at 186.69 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25094,7 +25808,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 176.53 115.57 0)
+			(at 186.69 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25103,7 +25817,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 176.53 110.49 0)
+			(at 181.61 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25117,7 +25831,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP31")
+					(reference "TP39")
 					(unit 1)
 				)
 			)
@@ -25132,7 +25846,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e9cc0a8f-c2ad-47a6-bcbc-3ab01ed71988")
-		(property "Reference" "TP27"
+		(property "Reference" "TP31"
 			(at 168.91 93.472 0)
 			(effects
 				(font
@@ -25184,7 +25898,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP27")
+					(reference "TP31")
 					(unit 1)
 				)
 			)
@@ -25199,7 +25913,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ea05288f-2cfb-4081-9e5a-ca72bdffdfc6")
-		(property "Reference" "TP4"
+		(property "Reference" "TP18"
 			(at 91.186 57.15 90)
 			(effects
 				(font
@@ -25251,7 +25965,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP4")
+					(reference "TP18")
 					(unit 1)
 				)
 			)
@@ -25267,7 +25981,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eabba6de-ac65-413e-9446-07f9f3eb732d")
-		(property "Reference" "TP45"
+		(property "Reference" "TP43"
 			(at 220.98 88.1379 0)
 			(effects
 				(font
@@ -25319,7 +26033,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP45")
+					(reference "TP43")
 					(unit 1)
 				)
 			)
@@ -25327,15 +26041,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 358.14 222.25 270)
+		(at 360.68 222.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ebbc40e2-c496-4f15-a0b1-c89a79b8c6a5")
-		(property "Reference" "TP81"
-			(at 363.22 221.996 90)
+		(property "Reference" "TP82"
+			(at 360.426 217.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25344,7 +26058,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 363.22 223.5199 90)
+			(at 361.9499 217.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25354,7 +26068,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 358.14 227.33 0)
+			(at 365.76 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25363,7 +26077,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 358.14 227.33 0)
+			(at 365.76 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25372,7 +26086,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 358.14 222.25 0)
+			(at 360.68 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25386,7 +26100,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP81")
+					(reference "TP82")
 					(unit 1)
 				)
 			)
@@ -25394,15 +26108,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 356.87 63.5 270)
+		(at 360.68 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ee74ea0a-0ae7-49fc-9cab-2f0f2f3c631e")
-		(property "Reference" "TP75"
-			(at 361.95 63.246 90)
+		(property "Reference" "TP79"
+			(at 360.426 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25411,7 +26125,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 361.95 64.7699 90)
+			(at 361.9499 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25421,7 +26135,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 356.87 68.58 0)
+			(at 365.76 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25430,7 +26144,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 356.87 68.58 0)
+			(at 365.76 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25439,7 +26153,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 356.87 63.5 0)
+			(at 360.68 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25453,7 +26167,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP75")
+					(reference "TP79")
 					(unit 1)
 				)
 			)
@@ -25469,7 +26183,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0f18cc1-1f68-4fc7-b974-32ece886c08d")
-		(property "Reference" "#PWR0115"
+		(property "Reference" "#PWR0105"
 			(at 267.97 78.74 0)
 			(effects
 				(font
@@ -25520,7 +26234,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0115")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -25535,7 +26249,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "f16f7672-e8e0-4468-94eb-532c54aad9e4")
-		(property "Reference" "R114"
+		(property "Reference" "R94"
 			(at 254.254 54.61 90)
 			(effects
 				(font
@@ -25587,7 +26301,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R114")
+					(reference "R94")
 					(unit 1)
 				)
 			)
@@ -25603,7 +26317,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f32165a5-c5d0-4d30-a347-6f88d0c2eaa7")
-		(property "Reference" "#PWR0110"
+		(property "Reference" "#PWR0104"
 			(at 257.81 223.52 0)
 			(effects
 				(font
@@ -25654,7 +26368,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0110")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -25669,7 +26383,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f429d0ac-6a18-405a-869a-41ab4234441b")
-		(property "Reference" "R134"
+		(property "Reference" "R116"
 			(at 341.63 164.846 90)
 			(effects
 				(font
@@ -25721,7 +26435,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R134")
+					(reference "R116")
 					(unit 1)
 				)
 			)
@@ -25805,7 +26519,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f4aba17f-e05f-4480-9558-d1a9bddfcbc6")
-		(property "Reference" "#PWR0116"
+		(property "Reference" "#PWR0106"
 			(at 267.97 125.73 0)
 			(effects
 				(font
@@ -25856,7 +26570,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR0116")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -25872,7 +26586,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7a85b5a-0ddf-4fe3-be97-6d2263cd494f")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR086"
 			(at 165.1 110.49 0)
 			(effects
 				(font
@@ -25923,7 +26637,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR090")
+					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -25939,7 +26653,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7fa6d48-0f35-46cf-8716-e6643afa707d")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR090"
 			(at 176.53 127 0)
 			(effects
 				(font
@@ -25990,7 +26704,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR092")
+					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -25998,15 +26712,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 267.97 63.5 270)
+		(at 271.78 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f816c636-54e8-4496-bfe3-8a218fed9466")
-		(property "Reference" "TP59"
-			(at 273.05 63.246 90)
+		(property "Reference" "TP58"
+			(at 271.526 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26015,7 +26729,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 273.05 64.7699 90)
+			(at 273.0499 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26025,7 +26739,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 267.97 68.58 0)
+			(at 276.86 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26034,7 +26748,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 267.97 68.58 0)
+			(at 276.86 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26043,7 +26757,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 267.97 63.5 0)
+			(at 271.78 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26057,7 +26771,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP59")
+					(reference "TP58")
 					(unit 1)
 				)
 			)
@@ -26140,7 +26854,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9f523bb-dad9-4180-b40d-d0a4f1f313eb")
-		(property "Reference" "TP14"
+		(property "Reference" "TP8"
 			(at 50.8 176.0219 0)
 			(effects
 				(font
@@ -26192,74 +26906,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 267.97 109.22 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "fa4bbe5c-ad1c-4496-88b5-41d2cfaa6bea")
-		(property "Reference" "TP61"
-			(at 273.05 108.966 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 273.05 110.4899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 267.97 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 267.97 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 267.97 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "63da8c3d-21eb-4cce-a72a-062dd1807143")
-		)
-		(instances
-			(project "msp_dj_chip"
-				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP61")
+					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -26274,7 +26921,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fae9b5f7-3d46-41e6-b35b-3a1d9c9e1638")
-		(property "Reference" "R130"
+		(property "Reference" "R112"
 			(at 340.36 51.816 90)
 			(effects
 				(font
@@ -26326,7 +26973,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R130")
+					(reference "R112")
 					(unit 1)
 				)
 			)
@@ -26341,7 +26988,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fbf31a0b-64cb-4c68-952a-c6e3d980218a")
-		(property "Reference" "TP50"
+		(property "Reference" "TP52"
 			(at 261.62 160.782 0)
 			(effects
 				(font
@@ -26393,7 +27040,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP50")
+					(reference "TP52")
 					(unit 1)
 				)
 			)
@@ -26408,7 +27055,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fd491656-71d3-4805-8914-4049b3b3e072")
-		(property "Reference" "TP20"
+		(property "Reference" "TP17"
 			(at 94.996 195.58 0)
 			(effects
 				(font
@@ -26460,7 +27107,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP20")
+					(reference "TP17")
 					(unit 1)
 				)
 			)
@@ -26475,7 +27122,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fd979301-d2ee-4175-aea0-33ec374945e1")
-		(property "Reference" "TP38"
+		(property "Reference" "TP36"
 			(at 186.436 154.94 0)
 			(effects
 				(font
@@ -26527,7 +27174,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "TP38")
+					(reference "TP36")
 					(unit 1)
 				)
 			)
@@ -26610,7 +27257,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffaa0e49-75ff-4790-a2e1-cc4ba7616d9e")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR069"
 			(at 77.47 62.23 0)
 			(effects
 				(font
@@ -26661,7 +27308,7 @@
 		(instances
 			(project ""
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "#PWR070")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -26676,7 +27323,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ffd72cb3-137c-4f22-9023-28e5deda6bff")
-		(property "Reference" "R86"
+		(property "Reference" "R60"
 			(at 124.46 200.6599 0)
 			(effects
 				(font
@@ -26730,7 +27377,7 @@
 		(instances
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c/941e76fc-b019-42ee-9a9c-84526f78af4f"
-					(reference "R86")
+					(reference "R60")
 					(unit 1)
 				)
 			)
