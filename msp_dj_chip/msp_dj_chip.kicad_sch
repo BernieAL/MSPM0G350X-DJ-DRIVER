@@ -1890,6 +1890,143 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:Fuse_Small"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "F"
+				(at 0 -1.524 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Fuse_Small"
+				(at 0 1.524 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Fuse, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "fuse"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*Fuse*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Fuse_Small_0_1"
+				(rectangle
+					(start -1.27 0.508)
+					(end 1.27 -0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Fuse_Small_1_1"
+				(pin passive line
+					(at -2.54 0 0)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:LED_Small_Filled"
 			(pin_numbers
 				(hide yes)
@@ -5808,6 +5945,12 @@
 		(uuid "05ccaed8-f431-4610-a1bb-6a64763e2aa5")
 	)
 	(junction
+		(at 337.82 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08d0ce7c-5c76-4375-a886-6ceae66f59e8")
+	)
+	(junction
 		(at 142.24 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5962,6 +6105,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "63c0fb7a-6c8f-4ed4-9538-08a63594951d")
+	)
+	(junction
+		(at 337.82 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "666ae800-b99a-400c-b552-196ab37463a4")
 	)
 	(junction
 		(at 92.71 138.43)
@@ -6455,6 +6604,16 @@
 	)
 	(wire
 		(pts
+			(xy 330.2 83.82) (xy 337.82 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fc59e8e-5bf9-45a6-af50-098fdd118d01")
+	)
+	(wire
+		(pts
 			(xy 205.74 124.46) (xy 223.52 124.46)
 		)
 		(stroke
@@ -6882,6 +7041,16 @@
 			(type default)
 		)
 		(uuid "2e5c9ed2-44cc-4003-8d6c-08fc9729b458")
+	)
+	(wire
+		(pts
+			(xy 330.2 87.63) (xy 337.82 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e902cf0-f252-4895-9dd6-695208135b2f")
 	)
 	(wire
 		(pts
@@ -7895,6 +8064,16 @@
 	)
 	(wire
 		(pts
+			(xy 314.96 87.63) (xy 325.12 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7450b4c1-eb78-413e-98d4-2367c64fc1a6")
+	)
+	(wire
+		(pts
 			(xy 205.74 157.48) (xy 223.52 157.48)
 		)
 		(stroke
@@ -8165,6 +8344,16 @@
 	)
 	(wire
 		(pts
+			(xy 337.82 76.2) (xy 337.82 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82691f48-31e0-4918-a663-08edd3f05768")
+	)
+	(wire
+		(pts
 			(xy 127 264.16) (xy 139.7 264.16)
 		)
 		(stroke
@@ -8415,6 +8604,16 @@
 	)
 	(wire
 		(pts
+			(xy 337.82 87.63) (xy 337.82 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95baa709-6a6a-4ac6-b544-be415e2a7ebd")
+	)
+	(wire
+		(pts
 			(xy 40.64 207.01) (xy 35.56 207.01)
 		)
 		(stroke
@@ -8502,6 +8701,16 @@
 			(type default)
 		)
 		(uuid "9de121c4-e2d0-4f4d-9dcd-1978954c3d83")
+	)
+	(wire
+		(pts
+			(xy 337.82 83.82) (xy 337.82 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ef1b66b-6637-4ba9-95bb-870022b75dd4")
 	)
 	(wire
 		(pts
@@ -9965,6 +10174,16 @@
 	)
 	(wire
 		(pts
+			(xy 314.96 83.82) (xy 325.12 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb416b16-af8e-4fce-a52a-3691c825413d")
+	)
+	(wire
+		(pts
 			(xy 40.64 173.99) (xy 35.56 173.99)
 		)
 		(stroke
@@ -10142,6 +10361,16 @@
 			(justify right bottom)
 		)
 		(uuid "13f9193d-4d36-4601-8db6-eca408dea5fa")
+	)
+	(label "OUT_0"
+		(at 314.96 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "14043c75-73ec-4eea-9c47-6addd8b0bfd8")
 	)
 	(label "OUT_7"
 		(at 391.16 132.08 180)
@@ -10712,6 +10941,16 @@
 			(justify left bottom)
 		)
 		(uuid "a4d1c8fa-c174-47d7-959c-5dca011d55b6")
+	)
+	(label "OUT_1"
+		(at 314.96 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ab459dad-5f69-4cba-93ca-0d29f0ed0481")
 	)
 	(label "DRV_14"
 		(at 40.64 209.55 0)
@@ -11887,6 +12126,73 @@
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c"
 					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Fuse_Small")
+		(at 327.66 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0f6d4701-a977-4489-88b9-dadda1152877")
+		(property "Reference" "F1"
+			(at 327.66 78.232 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Fuse_Small"
+			(at 327.66 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 327.66 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 327.66 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fuse, small symbol"
+			(at 327.66 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "842330d8-d7ab-4c08-9817-59142e3776b8")
+		)
+		(pin "2"
+			(uuid "e4b68447-7482-47a8-bcad-ab3be9724178")
+		)
+		(instances
+			(project ""
+				(path "/9f1d1666-1e71-4846-af68-34a5e483246c"
+					(reference "F1")
 					(unit 1)
 				)
 			)
@@ -13337,6 +13643,72 @@
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c"
 					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 337.82 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "36a8a799-2838-4ee8-94bb-49e45892ef6a")
+		(property "Reference" "#PWR0135"
+			(at 337.82 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+24V"
+			(at 337.82 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 337.82 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 337.82 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 337.82 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "76c8f317-d9dd-4147-b105-acf755f880f1")
+		)
+		(instances
+			(project "msp_dj_chip"
+				(path "/9f1d1666-1e71-4846-af68-34a5e483246c"
+					(reference "#PWR0135")
 					(unit 1)
 				)
 			)
@@ -15061,6 +15433,73 @@
 			(project "msp_dj_chip"
 				(path "/9f1d1666-1e71-4846-af68-34a5e483246c"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Fuse_Small")
+		(at 327.66 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6c303c1b-72c1-4f52-b9ad-c32d4f773f18")
+		(property "Reference" "F2"
+			(at 327.66 89.916 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Fuse_Small"
+			(at 327.66 92.202 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 327.66 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 327.66 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fuse, small symbol"
+			(at 327.66 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "83bc3621-df59-45cf-a7e7-0cfcff699311")
+		)
+		(pin "2"
+			(uuid "71fd09fb-1070-4a9e-992c-5561732bd68c")
+		)
+		(instances
+			(project "msp_dj_chip"
+				(path "/9f1d1666-1e71-4846-af68-34a5e483246c"
+					(reference "F2")
 					(unit 1)
 				)
 			)
@@ -21732,6 +22171,46 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "GPIO_INPUT_00" input
+			(at 15.24 238.76 180)
+			(uuid "06c066a3-f7b5-47b6-82f3-42737235ede9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO_INPUT_01" input
+			(at 15.24 241.3 180)
+			(uuid "9ebb050b-aca4-4c3e-90cd-849d7a019701")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT_00" input
+			(at 43.18 238.76 0)
+			(uuid "16a8c52b-1b5e-400d-9bdc-43c03bc57bce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OUT_01" input
+			(at 43.18 241.3 0)
+			(uuid "e4decc34-9977-4d9e-9759-b4f5451c8c78")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
