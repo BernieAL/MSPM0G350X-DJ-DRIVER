@@ -1,0 +1,218 @@
+(footprint "CONN HEADER VERT 10POS 1.27MM"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4.63 0)
+		(layer "F.SilkS")
+		(uuid "a8d76241-8849-4390-b6ef-3a13cec2bc97")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "HDR-TH_10P-P1.27-V-M-R2-C5-S1.27"
+		(at 0 4.63 0)
+		(layer "F.Fab")
+		(uuid "10ead4c6-085f-4bcc-9a96-bf8cb9083126")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "accab3f2-549f-404f-85a5-a6c7c78a6443")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "95b26632-c9b0-4137-bdcd-8fb2ddd122a3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.17 -1.72)
+		(end -3.17 1.72)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0cb37439-07c2-4daa-907b-6aae94d2738d")
+	)
+	(fp_line
+		(start -3.17 -1.71)
+		(end 3.18 -1.71)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0b3df05a-b5df-4a97-912c-77dc7497f835")
+	)
+	(fp_line
+		(start -3.17 1.71)
+		(end 3.18 1.71)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6b045240-246a-4a37-b934-8955cdd009c3")
+	)
+	(fp_line
+		(start 3.18 -1.72)
+		(end 3.18 1.72)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2b69ecce-44c8-4418-9388-3996c036aeeb")
+	)
+	(fp_circle
+		(center -3.17 1.7)
+		(end -3.14 1.7)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "dcca364b-3789-4f78-aedd-51328f5599ea")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "d123da97-4187-4684-a474-5e548b454b49")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at -2.54 0.63)
+		(size 1 1)
+		(drill 0.700024)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "41647fc7-bf1e-4f87-b8d1-cfdd1e8e035a")
+	)
+	(pad "2" thru_hole circle
+		(at -2.54 -0.63)
+		(size 1 1)
+		(drill 0.700024)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ba2be56b-8a75-4a8b-9442-2800bf350437")
+	)
+	(pad "3" thru_hole circle
+		(at -1.27 0.63)
+		(size 1 1)
+		(drill 0.700024)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "16dd5886-50a2-4259-a83d-f22c5a3c6d69")
+	)
+	(pad "4" thru_hole circle
+		(at -1.27 -0.63)
+		(size 1 1)
+		(drill 0.700024)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f381d707-6990-43fa-8d7b-dabf1a9a0490")
+	)
+	(pad "5" thru_hole circle
+		(at 0 0.63)
+		(size 1 1)
+		(drill 0.700024)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4753e83c-a0a3-460f-992e-5e5a2cb7ef8f")
+	)
+	(pad "6" thru_hole circle
+		(at 0 -0.63)
+		(size 1 1)
+		(drill 0.700024)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e2ff24d2-d979-4a57-bc08-056d43f7140b")
+	)
+	(pad "7" thru_hole circle
+		(at 1.27 0.63)
+		(size 1 1)
+		(drill 0.700024)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "843e6679-c7fe-4f78-a7c9-3e429309f422")
+	)
+	(pad "8" thru_hole circle
+		(at 1.27 -0.63)
+		(size 1 1)
+		(drill 0.700024)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d51bc0c9-333e-48de-880a-a02848196d1b")
+	)
+	(pad "9" thru_hole circle
+		(at 2.54 0.63)
+		(size 1 1)
+		(drill 0.700024)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5e72d455-d87c-4063-96ce-ac134a5b3523")
+	)
+	(pad "10" thru_hole circle
+		(at 2.54 -0.63)
+		(size 1 1)
+		(drill 0.700024)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d24402f5-58b8-4811-8096-ed3e88c8cbac")
+	)
+	(embedded_fonts no)
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/HDR-TH_10P-P1.27-V-M-R2-C5-S1.27.wrl"
+		(offset
+			(xyz 0 -0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/footprints/CONN HEADER VERT 10POS 1.27MM.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

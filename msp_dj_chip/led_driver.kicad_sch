@@ -3731,7 +3731,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:CONN HEADER VERT 10POS 2MM"
 			(at 173.99 95.25 0)
 			(effects
 				(font
@@ -3959,7 +3959,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:CONN HEADER VERT 10POS 2MM"
 			(at 175.26 50.8 0)
 			(effects
 				(font

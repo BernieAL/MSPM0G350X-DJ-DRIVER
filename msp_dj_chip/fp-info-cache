@@ -1,4 +1,4 @@
-26726009303953591
+26733091097066817
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106344,6 +106344,20 @@ Varistor VF
 2
 2
 project_footprints
+CONN HEADER RA 6POS 2MM
+
+
+0
+6
+6
+project_footprints
+CONN HEADER VERT 10POS 1.27MM
+
+
+0
+10
+10
+project_footprints
 DAC60502
 
 
@@ -106372,12 +106386,19 @@ MSP3507
 64
 1
 project_footprints
+PPPC021LFBN-RC
+
+
+0
+2
+2
+project_footprints
 RS_485_THVD24
 
 
 0
-18
-3
+19
+11
 project_footprints
 SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL
 
@@ -106392,3 +106413,10 @@ Untitled
 0
 8
 8
+project_footprints
+mosfet_SSM6N7002KFU
+
+
+0
+0
+0

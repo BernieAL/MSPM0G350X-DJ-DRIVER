@@ -14792,7 +14792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 186.69 0)
 			(effects
 				(font
@@ -14861,7 +14861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 143.51 0)
 			(effects
 				(font
@@ -15351,7 +15351,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:CONN HEADER VERT 10POS 1.27MM"
 			(at 379.73 220.98 0)
 			(effects
 				(font
@@ -16319,7 +16319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 135.89 0)
 			(effects
 				(font
@@ -16524,7 +16524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 81.28 0)
 			(effects
 				(font
@@ -16797,7 +16797,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 128.27 0)
 			(effects
 				(font
@@ -17472,7 +17472,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 74.93 0)
 			(effects
 				(font
@@ -17739,7 +17739,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal"
 			(at 21.59 41.91 0)
 			(effects
 				(font
@@ -18014,7 +18014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 106.68 0)
 			(effects
 				(font
@@ -18149,7 +18149,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 113.03 0)
 			(effects
 				(font
@@ -18549,7 +18549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 100.33 0)
 			(effects
 				(font
@@ -19094,7 +19094,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "7ca114e8-28fb-43c3-b212-56151b1df8c6")
 		(property "Reference" "J3"
@@ -19113,7 +19113,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:CONN HEADER RA 6POS 2MM"
 			(at 365.76 242.57 0)
 			(effects
 				(font
@@ -19531,7 +19531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 87.63 0)
 			(effects
 				(font
@@ -20235,7 +20235,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 151.13 0)
 			(effects
 				(font
@@ -20901,7 +20901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 179.07 0)
 			(effects
 				(font
@@ -21180,7 +21180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 93.98 0)
 			(effects
 				(font
@@ -23466,7 +23466,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 166.37 0)
 			(effects
 				(font
@@ -23653,7 +23653,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "c155a62b-82d9-42dd-90e4-4059899ab382")
 		(property "Reference" "J2"
@@ -23674,7 +23674,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:CONN HEADER RA 6POS 2MM"
 			(at 24.13 74.93 0)
 			(effects
 				(font
@@ -23755,7 +23755,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 158.75 0)
 			(effects
 				(font
@@ -24572,7 +24572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 172.72 0)
 			(effects
 				(font
@@ -25044,7 +25044,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:PPPC021LFBN-RC"
 			(at 375.92 120.65 0)
 			(effects
 				(font
