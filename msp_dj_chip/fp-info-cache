@@ -1,4 +1,4 @@
-26733091097066817
+26734861522227765
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106358,6 +106358,13 @@ CONN HEADER VERT 10POS 1.27MM
 10
 10
 project_footprints
+CONN HEADER VERT 10POS 2MM
+
+
+0
+10
+10
+project_footprints
 DAC60502
 
 
@@ -106371,6 +106378,13 @@ MICRO-8_L3.0-W3.0-P0.65-LS4.9-BL
 0
 8
 8
+project_footprints
+MOSFET SSM6N7002KFU
+
+
+0
+6
+6
 project_footprints
 MSOP-8_3x3mm_P0.65mm
 MSOP, 8 Pin (https://www.jedec.org/system/files/docs/mo-187F.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -106413,10 +106427,3 @@ Untitled
 0
 8
 8
-project_footprints
-mosfet_SSM6N7002KFU
-
-
-0
-0
-0

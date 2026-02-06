@@ -2707,7 +2707,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:MOSFET SSM6N7002KFU"
 			(at 53.34 58.42 0)
 			(effects
 				(font
@@ -2856,7 +2856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:MOSFET SSM6N7002KFU"
 			(at 53.34 85.09 0)
 			(effects
 				(font
@@ -3071,7 +3071,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:MOSFET SSM6N7002KFU"
 			(at 116.84 31.75 0)
 			(effects
 				(font
@@ -3220,7 +3220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:MOSFET SSM6N7002KFU"
 			(at 54.61 31.75 0)
 			(effects
 				(font
@@ -3435,7 +3435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:MOSFET SSM6N7002KFU"
 			(at 53.34 113.03 0)
 			(effects
 				(font
@@ -3649,7 +3649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:MOSFET SSM6N7002KFU"
 			(at 115.57 58.42 0)
 			(effects
 				(font
@@ -4585,7 +4585,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:MOSFET SSM6N7002KFU"
 			(at 53.34 138.43 0)
 			(effects
 				(font
@@ -5133,7 +5133,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:MOSFET SSM6N7002KFU"
 			(at 53.34 161.29 0)
 			(effects
 				(font
