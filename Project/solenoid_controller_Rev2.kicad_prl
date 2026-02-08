@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "msp_dj_chip.kicad_prl",
+    "filename": "solenoid_controller_Rev2.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
