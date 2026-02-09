@@ -6287,7 +6287,7 @@
 		)
 		(uuid "288af753-d2d2-4a3e-9a7c-b54b8be43d95")
 	)
-	(text "* TODO Make all sheet to sheet global labels"
+	(text "* TODO Make all sheet to sheet global labels\n(COMPLETE)"
 		(exclude_from_sim no)
 		(at 297.688 70.866 0)
 		(effects
@@ -6318,7 +6318,7 @@
 		)
 		(uuid "45917578-36a2-43a5-8d35-d7520710d74e")
 	)
-	(text "*TODO Put in Crystal part #"
+	(text "*TODO Put in Crystal part #\n(complete)"
 		(exclude_from_sim no)
 		(at 136.144 85.598 0)
 		(effects
@@ -6449,7 +6449,7 @@
 		)
 		(uuid "fb60910b-e858-4fdb-a144-e3be49189743")
 	)
-	(text "*TODO RESET NOT CONFIGURED CORRECTLY"
+	(text "*TODO RESET NOT CONFIGURED CORRECTLY\n(complete)"
 		(exclude_from_sim no)
 		(at 200.152 86.106 0)
 		(effects
@@ -17133,8 +17133,8 @@
 				)
 			)
 		)
-		(property "Value" "24 MHz"
-			(at 116.586 92.964 90)
+		(property "Value" "ABM8-24.000MHZ-R60-D1W-T"
+			(at 119.126 90.678 90)
 			(effects
 				(font
 					(size 0.762 0.762)
